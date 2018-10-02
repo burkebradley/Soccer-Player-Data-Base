@@ -1,8 +1,8 @@
 Cristiano Ronaldo	Juventus	ST	94  90 Pac  90 Dri  93 Sho  35 Def  81  Pas  79 Phy
 Lionel Messi	Barcelona	CF	94  88 Pac  96 Dri  91 Sho  32 Def  88 Pas  61 Phy  
 Neymar	Paris Saint-Germain	LW	92  92 Pac  95 Dri  84 Sho  32 Def  83 Pas  59 Phy 
-Luca Modri	Real Madrid	CM	91  76  91 Pac  76 Dri  70 Sho  90 Def  67 
-Kevin De Bruyne	Manchester City	CAM	91
+Luca Modri	Real Madrid	CM	91  76 Pac  91 Dri  76 Sho  70 Def  90 Pas  67 Phy
+Kevin De Bruyne	Manchester City	CAM	91  77 Pac  87 Dri  86 Sho  60 Def  92 Pas  78 Phy
 Eden Hazard	Chelsea	LW	91
 Sergio Ramos	Real Madrid	CB	91
 Luis Suarez	Barcelona	ST	91
