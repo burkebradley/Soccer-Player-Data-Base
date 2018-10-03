@@ -43,7 +43,7 @@ public class SoccerPlayerDataBase
 			playerSearched = userInputOne.nextLine();
 		}
 		
-		public static void promptUser()
+		public static void promptUser() throws IOException
 		{
 			System.out.println("Welcome!");
 			System.out.println("This is a database of all the players currently on a Premier League team roster.");
