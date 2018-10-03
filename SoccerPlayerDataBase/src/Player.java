@@ -8,13 +8,13 @@ public class Player
 		private String position;
 		
 		
-		public Player(String n, String t, int b, int h, int w, String pos)
+		public Player(String n, String t, int b, int h, String pOS)
 		{
 			name = n;
 			team = t;
 			birthYear = b;
 			height = h;
-			position = pos;
+			position = pOS;
 			
 		}
 		public String getName()
