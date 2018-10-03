@@ -1,0 +1,572 @@
+
+Player		Team	born	Height	Position
+Nathan Aké	AFC Bournemouth	AFC Bournemouth	18/02/1995	180 cm	DF
+Asmir Begović	AFC Bournemouth	AFC Bournemouth	20/06/1987	199 cm	GK
+Artur Boruc	AFC Bournemouth	AFC Bournemouth	20/02/1980	193 cm	GK
+David Brooks	AFC Bournemouth	AFC Bournemouth	08/07/1997	173 cm	MF
+Lewis Cook	AFC Bournemouth	AFC Bournemouth	03/02/1997	175 cm	MF
+Steve Cook	AFC Bournemouth	AFC Bournemouth	19/04/1991	185 cm	DF
+Charlie Daniels	AFC Bournemouth	AFC Bournemouth	07/09/1986	178 cm	DF
+Jermain Defoe	AFC Bournemouth	AFC Bournemouth	07/10/1982	171 cm	FW
+Diego Rico	AFC Bournemouth	AFC Bournemouth	23/02/1993	183 cm	DF
+Mihai Dobre	AFC Bournemouth	AFC Bournemouth	30/08/1998	178 cm	MF
+Simon Francis	AFC Bournemouth	AFC Bournemouth	16/02/1985	191 cm	DF
+Ryan Fraser	AFC Bournemouth	AFC Bournemouth	01/09/1994	163 cm	MF
+Dan Gosling	AFC Bournemouth	AFC Bournemouth	02/02/1990	183 cm	MF
+Emerson Hyndman	AFC Bournemouth	AFC Bournemouth	07/04/1996	170 cm	MF
+Jordon Ibe	AFC Bournemouth	AFC Bournemouth	08/12/1995	176 cm	FW
+Joshua King	AFC Bournemouth	AFC Bournemouth	15/01/1992	181 cm	FW
+Jefferson Lerma	AFC Bournemouth	AFC Bournemouth	25/10/1994	179 cm	MF
+Tyrone Mings	AFC Bournemouth	AFC Bournemouth	13/03/1993	195 cm	DF
+Lys Mousset	AFC Bournemouth	AFC Bournemouth	08/02/1996	184 cm	FW
+Mikael Ndjoli	AFC Bournemouth	AFC Bournemouth	16/12/1998	183 cm	FW
+Nnamdi Ofoborh	AFC Bournemouth	AFC Bournemouth	07/11/1999	183 cm	MF
+Marc Pugh	AFC Bournemouth	AFC Bournemouth	02/04/1987	180 cm	MF
+Aaron Ramsdale	AFC Bournemouth	AFC Bournemouth	14/05/1998	188 cm	GK
+Jack Simpson	AFC Bournemouth	AFC Bournemouth	08/01/1997	178 cm	DF
+Adam Smith	AFC Bournemouth	AFC Bournemouth	29/04/1991	174 cm	DF
+Junior Stanislas	AFC Bournemouth	AFC Bournemouth	26/11/1989	183 cm	MF
+Andrew Surman	AFC Bournemouth	AFC Bournemouth	20/08/1986	178 cm	MF
+Mark Travers	AFC Bournemouth	AFC Bournemouth	18/05/1999	191 cm	GK
+Callum Wilson	AFC Bournemouth	AFC Bournemouth	27/02/1992	180 cm	FW
+Pierre-Emerick Aubameyang	Arsenal FC	Arsenal FC	18/06/1989	187 cm	FW
+Petr Čech	Arsenal FC	Arsenal FC	20/05/1982	196 cm	GK
+Mohamed El Neny	Arsenal FC	Arsenal FC	11/07/1992	180 cm	MF
+Mattéo Guendouzi	Arsenal FC	Arsenal FC	14/04/1999	185 cm	MF
+Héctor Bellerín	Arsenal FC	Arsenal FC	19/03/1995	178 cm	DF
+Rob Holding	Arsenal FC	Arsenal FC	20/09/1995	189 cm	DF
+Alex Iwobi	Arsenal FC	Arsenal FC	03/05/1996	183 cm	FW
+Carl Jenkinson	Arsenal FC	Arsenal FC	08/02/1992	185 cm	DF
+Sead Kolašinac	Arsenal FC	Arsenal FC	20/06/1993	183 cm	DF
+Laurent Koscielny	Arsenal FC	Arsenal FC	10/09/1985	186 cm	DF
+Alexandre Lacazette	Arsenal FC	Arsenal FC	28/05/1991	175 cm	FW
+Bernd Leno	Arsenal FC	Arsenal FC	04/03/1992	190 cm	GK
+Stephan Lichtsteiner	Arsenal FC	Arsenal FC	16/01/1984	182 cm	DF
+Ainsley Maitland-Niles	Arsenal FC	Arsenal FC	29/08/1997	177 cm	DF
+Emiliano Martínez	Arsenal FC	Arsenal FC	02/09/1992	195 cm	GK
+Konstantinos Mavropanos	Arsenal FC	Arsenal FC	11/12/1997	194 cm	DF
+Henrikh Mkhitaryan	Arsenal FC	Arsenal FC	21/01/1989	177 cm	MF
+Shkodran Mustafi	Arsenal FC	Arsenal FC	17/04/1992	184 cm	DF
+Nacho Monreal	Arsenal FC	Arsenal FC	26/02/1986	179 cm	DF
+Edward Nketiah	Arsenal FC	Arsenal FC	30/05/1999	175 cm	FW
+Mesut Özil	Arsenal FC	Arsenal FC	15/10/1988	180 cm	MF
+Sokratis Papastathopoulos	Arsenal FC	Arsenal FC	09/06/1988	186 cm	DF
+Aaron Ramsey	Arsenal FC	Arsenal FC	26/12/1990	182 cm	MF
+Emile Smith-Rowe	Arsenal FC	Arsenal FC	28/07/2000	182 cm	MF
+Lucas Torreira	Arsenal FC	Arsenal FC	11/02/1996	168 cm	MF
+Danny Welbeck	Arsenal FC	Arsenal FC	26/11/1990	185 cm	FW
+Granit Xhaka	Arsenal FC	Arsenal FC	27/09/1992	185 cm	MF
+Soufyan Ahannach	Brighton & Hove Albion	Brighton & Hove Albion	09/09/1995	173 cm	MF
+Florin Andone	Brighton & Hove Albion	Brighton & Hove Albion	11/04/1993	180 cm	FW
+Leon Balogun	Brighton & Hove Albion	Brighton & Hove Albion	28/06/1988	190 cm	DF
+Ben Barclay	Brighton & Hove Albion	Brighton & Hove Albion	07/10/1996	181 cm	DF
+Bernardo	Brighton & Hove Albion	Brighton & Hove Albion	14/05/1995	186 cm	DF
+Yves Bissouma	Brighton & Hove Albion	Brighton & Hove Albion	30/08/1996	182 cm	MF
+Gaëtan Bong	Brighton & Hove Albion	Brighton & Hove Albion	25/04/1988	183 cm	DF
+Bruno	Brighton & Hove Albion	Brighton & Hove Albion	01/10/1980	181 cm	DF
+Dan Burn	Brighton & Hove Albion	Brighton & Hove Albion	09/05/1992	198 cm	DF
+David Button	Brighton & Hove Albion	Brighton & Hove Albion	27/02/1989	191 cm	GK
+Will Collar	Brighton & Hove Albion	Brighton & Hove Albion	03/02/1997	???	MF
+Aaron Connolly	Brighton & Hove Albion	Brighton & Hove Albion	28/01/2000	???	FW
+Shane Duffy	Brighton & Hove Albion	Brighton & Hove Albion	01/01/1992	193 cm	DF
+Lewis Dunk	Brighton & Hove Albion	Brighton & Hove Albion	21/11/1991	192 cm	DF
+Pascal Groß	Brighton & Hove Albion	Brighton & Hove Albion	15/06/1991	181 cm	MF
+Viktor Gyökeres	Brighton & Hove Albion	Brighton & Hove Albion	04/07/1998	187 cm	FW
+José Izquierdo	Brighton & Hove Albion	Brighton & Hove Albion	07/07/1992	171 cm	FW
+Alireza Jahanbakhsh	Brighton & Hove Albion	Brighton & Hove Albion	08/10/1993	180 cm	FW
+Biram Kayal	Brighton & Hove Albion	Brighton & Hove Albion	02/05/1988	178 cm	MF
+Anthony Knockaert	Brighton & Hove Albion	Brighton & Hove Albion	20/11/1991	172 cm	MF
+Jürgen Locadia	Brighton & Hove Albion	Brighton & Hove Albion	07/11/1993	185 cm	FW
+Solomon March	Brighton & Hove Albion	Brighton & Hove Albion	26/07/1994	185 cm	MF
+Martín Montoya	Brighton & Hove Albion	Brighton & Hove Albion	14/04/1991	175 cm	DF
+Glenn Murray	Brighton & Hove Albion	Brighton & Hove Albion	25/09/1983	183 cm	FW
+Oliver Norwood	Brighton & Hove Albion	Brighton & Hove Albion	12/04/1991	180 cm	MF
+Davy Pröpper	Brighton & Hove Albion	Brighton & Hove Albion	02/09/1991	185 cm	MF
+Mathew Ryan	Brighton & Hove Albion	Brighton & Hove Albion	08/04/1992	184 cm	GK
+Ezequiel Schelotto	Brighton & Hove Albion	Brighton & Hove Albion	23/05/1989	187 cm	DF
+Jason Steele	Brighton & Hove Albion	Brighton & Hove Albion	18/08/1990	188 cm	GK
+Dale Stephens	Brighton & Hove Albion	Brighton & Hove Albion	12/12/1989	185 cm	MF
+Markus Suttner	Brighton & Hove Albion	Brighton & Hove Albion	16/04/1987	179 cm	DF
+Phil Bardsley	Burnley FC	Burnley FC	28/06/1985	180 cm	DF
+Ashley Barnes	Burnley FC	Burnley FC	30/10/1989	186 cm	FW
+Robbie Brady	Burnley FC	Burnley FC	14/01/1992	178 cm	MF
+Jack Cork	Burnley FC	Burnley FC	25/06/1989	183 cm	MF
+Steven Defour	Burnley FC	Burnley FC	15/04/1988	173 cm	MF
+Ben Gibson	Burnley FC	Burnley FC	15/01/1993	185 cm	DF
+Jóhann Guðmundsson	Burnley FC	Burnley FC	27/10/1990	186 cm	MF
+Joe Hart	Burnley FC	Burnley FC	19/04/1987	196 cm	GK
+Tom Heaton	Burnley FC	Burnley FC	15/04/1986	186 cm	GK
+Jeff Hendrick	Burnley FC	Burnley FC	31/01/1992	185 cm	MF
+Adam Legzdins	Burnley FC	Burnley FC	28/11/1986	183 cm	GK
+Aaron Lennon	Burnley FC	Burnley FC	16/04/1987	165 cm	MF
+Anders Lindegaard	Burnley FC	Burnley FC	13/04/1984	193 cm	GK
+Kevin Long	Burnley FC	Burnley FC	18/08/1990	188 cm	DF
+Matthew Lowton	Burnley FC	Burnley FC	09/06/1989	180 cm	DF
+Dwight McNeil	Burnley FC	Burnley FC	22/11/1999	193 cm	FW
+Ben Mee	Burnley FC	Burnley FC	21/09/1989	180 cm	DF
+Nick Pope	Burnley FC	Burnley FC	19/04/1992	191 cm	GK
+James Tarkowski	Burnley FC	Burnley FC	19/11/1992	185 cm	DF
+Charlie Taylor	Burnley FC	Burnley FC	18/09/1993	175 cm	DF
+Sam Vokes	Burnley FC	Burnley FC	21/10/1989	186 cm	FW
+Matěj Vydra	Burnley FC	Burnley FC	01/05/1992	180 cm	FW
+Jon Walters	Burnley FC	Burnley FC	20/09/1983	183 cm	FW
+Stephen Ward	Burnley FC	Burnley FC	20/08/1985	184 cm	DF
+Ashley Westwood	Burnley FC	Burnley FC	01/04/1990	175 cm	MF
+Chris Wood	Burnley FC	Burnley FC	07/12/1991	191 cm	FW
+Harry Arter	Cardiff City	Cardiff City	28/12/1989	178 cm	MF
+Souleymane Bamba	Cardiff City	Cardiff City	13/01/1985	190 cm	DF
+Joe Bennett	Cardiff City	Cardiff City	28/03/1990	177 cm	DF
+Ciaron Brown	Cardiff City	Cardiff City	???	???	DF
+Camarasa	Cardiff City	Cardiff City	28/05/1994	183 cm	MF
+Matthew Connolly	Cardiff City	Cardiff City	24/09/1987	186 cm	DF
+Cameron Coxe	Cardiff City	Cardiff City	18/12/1998	181 cm	DF
+Greg Cunningham	Cardiff City	Cardiff City	31/01/1991	183 cm	DF
+Loïc Damour	Cardiff City	Cardiff City	08/01/1991	180 cm	MF
+Bruno Écuélé	Cardiff City	Cardiff City	16/07/1988	186 cm	DF
+Neil Etheridge	Cardiff City	Cardiff City	07/02/1990	188 cm	GK
+Frédéric Gounongbe	Cardiff City	Cardiff City	01/05/1988	191 cm	FW
+Aron Gunnarsson	Cardiff City	Cardiff City	22/04/1989	177 cm	MF
+Kadeem Harris	Cardiff City	Cardiff City	08/06/1993	175 cm	MF
+Mark Harris	Cardiff City	Cardiff City	29/12/1998	???	MF
+Rhys Healey	Cardiff City	Cardiff City	12/06/1994	173 cm	FW
+Junior Hoilett	Cardiff City	Cardiff City	05/06/1990	173 cm	MF
+Gary Madine	Cardiff City	Cardiff City	24/08/1990	175 cm	FW
+Ibrahim Meité	Cardiff City	Cardiff City	29/07/1996	188 cm	FW
+Nathaniel Mendez-Laing	Cardiff City	Cardiff City	15/04/1992	178 cm	MF
+Sean Morrison	Cardiff City	Cardiff City	08/01/1991	194 cm	DF
+Brian Murphy	Cardiff City	Cardiff City	07/05/1983	185 cm	GK
+Josh Murphy	Cardiff City	Cardiff City	24/02/1995	173 cm	FW
+Stuart O'Keefe	Cardiff City	Cardiff City	04/03/1991	173 cm	MF
+Callum Paterson	Cardiff City	Cardiff City	13/10/1994	183 cm	MF
+Lee Peltier	Cardiff City	Cardiff City	11/12/1986	178 cm	DF
+Anthony Pilkington	Cardiff City	Cardiff City	06/06/1988	183 cm	FW
+Joe Ralls	Cardiff City	Cardiff City	13/10/1993	183 cm	MF
+Bobby Reid	Cardiff City	Cardiff City	02/02/1993	170 cm	FW
+Jazz Richards	Cardiff City	Cardiff City	12/04/1991	185 cm	DF
+Alex Smithies	Cardiff City	Cardiff City	05/03/1990	189 cm	GK
+Lee Tomlin	Cardiff City	Cardiff City	12/01/1989	180 cm	FW
+Danny Ward	Cardiff City	Cardiff City	11/12/1991	180 cm	FW
+Kenneth Zohore	Cardiff City	Cardiff City	31/01/1994	190 cm	FW
+Ethan Ampadu	Chelsea FC	Chelsea FC	14/09/2000	182 cm	DF
+Azpilicueta	Chelsea FC	Chelsea FC	28/08/1989	178 cm	DF
+Ross Barkley	Chelsea FC	Chelsea FC	05/12/1993	189 cm	MF
+Kevin Long	Burnley FC	Burnley FC	18/08/1990	188 cm	DF
+Matthew Lowton	Burnley FC	Burnley FC	09/06/1989	180 cm	DF
+Dwight McNeil	Burnley FC	Burnley FC	22/11/1999	193 cm	FW
+Ben Mee	Burnley FC	Burnley FC	21/09/1989	180 cm	DF
+Nick Pope	Burnley FC	Burnley FC	19/04/1992	191 cm	GK
+James Tarkowski	Burnley FC	Burnley FC	19/11/1992	185 cm	DF
+Charlie Taylor	Burnley FC	Burnley FC	18/09/1993	175 cm	DF
+Sam Vokes	Burnley FC	Burnley FC	21/10/1989	186 cm	FW
+Matěj Vydra	Burnley FC	Burnley FC	01/05/1992	180 cm	FW
+Jon Walters	Burnley FC	Burnley FC	20/09/1983	183 cm	FW
+Stephen Ward	Burnley FC	Burnley FC	20/08/1985	184 cm	DF
+Ashley Westwood	Burnley FC	Burnley FC	01/04/1990	175 cm	MF
+Chris Wood	Burnley FC	Burnley FC	07/12/1991	191 cm	FW
+Harry Arter	Cardiff City	Cardiff City	28/12/1989	178 cm	MF
+Souleymane Bamba	Cardiff City	Cardiff City	13/01/1985	190 cm	DF
+Joe Bennett	Cardiff City	Cardiff City	28/03/1990	177 cm	DF
+Ciaron Brown	Cardiff City	Cardiff City	???	???	DF
+Camarasa	Cardiff City	Cardiff City	28/05/1994	183 cm	MF
+Matthew Connolly	Cardiff City	Cardiff City	24/09/1987	186 cm	DF
+Cameron Coxe	Cardiff City	Cardiff City	18/12/1998	181 cm	DF
+Greg Cunningham	Cardiff City	Cardiff City	31/01/1991	183 cm	DF
+Loïc Damour	Cardiff City	Cardiff City	08/01/1991	180 cm	MF
+Bruno Écuélé	Cardiff City	Cardiff City	16/07/1988	186 cm	DF
+Neil Etheridge	Cardiff City	Cardiff City	07/02/1990	188 cm	GK
+Frédéric Gounongbe	Cardiff City	Cardiff City	01/05/1988	191 cm	FW
+Aron Gunnarsson	Cardiff City	Cardiff City	22/04/1989	177 cm	MF
+Kadeem Harris	Cardiff City	Cardiff City	08/06/1993	175 cm	MF
+Mark Harris	Cardiff City	Cardiff City	29/12/1998	???	MF
+Rhys Healey	Cardiff City	Cardiff City	12/06/1994	173 cm	FW
+Junior Hoilett	Cardiff City	Cardiff City	05/06/1990	173 cm	MF
+Gary Madine	Cardiff City	Cardiff City	24/08/1990	175 cm	FW
+Ibrahim Meité	Cardiff City	Cardiff City	29/07/1996	188 cm	FW
+Nathaniel Mendez-Laing	Cardiff City	Cardiff City	15/04/1992	178 cm	MF
+Sean Morrison	Cardiff City	Cardiff City	08/01/1991	194 cm	DF
+Brian Murphy	Cardiff City	Cardiff City	07/05/1983	185 cm	GK
+Josh Murphy	Cardiff City	Cardiff City	24/02/1995	173 cm	FW
+Stuart O'Keefe	Cardiff City	Cardiff City	04/03/1991	173 cm	MF
+Callum Paterson	Cardiff City	Cardiff City	13/10/1994	183 cm	MF
+Lee Peltier	Cardiff City	Cardiff City	11/12/1986	178 cm	DF
+Anthony Pilkington	Cardiff City	Cardiff City	06/06/1988	183 cm	FW
+Joe Ralls	Cardiff City	Cardiff City	13/10/1993	183 cm	MF
+Bobby Reid	Cardiff City	Cardiff City	02/02/1993	170 cm	FW
+Jazz Richards	Cardiff City	Cardiff City	12/04/1991	185 cm	DF
+Alex Smithies	Cardiff City	Cardiff City	05/03/1990	189 cm	GK
+Lee Tomlin	Cardiff City	Cardiff City	12/01/1989	180 cm	FW
+Danny Ward	Cardiff City	Cardiff City	11/12/1991	180 cm	FW
+Kenneth Zohore	Cardiff City	Cardiff City	31/01/1994	190 cm	FW
+Ethan Ampadu	Chelsea FC	Chelsea FC	14/09/2000	182 cm	DF
+Azpilicueta	Chelsea FC	Chelsea FC	28/08/1989	178 cm	DF
+Ross Barkley	Chelsea FC	Chelsea FC	05/12/1993	189 cm	MF
+Joel Ward	Crystal Palace	Crystal Palace	29/10/1989	188 cm	DF
+Connor Wickham	Crystal Palace	Crystal Palace	31/03/1993	193 cm	FW
+Jonathan Williams	Crystal Palace	Crystal Palace	09/10/1993	168 cm	MF
+Sam Woods	Crystal Palace	Crystal Palace	11/09/1998	???	DF
+Wilfried Zaha	Crystal Palace	Crystal Palace	10/11/1992	180 cm	FW
+André Gomes	Everton FC	Everton FC	30/07/1993	188 cm	MF
+Leighton Baines	Everton FC	Everton FC	11/12/1984	170 cm	DF
+Beni Baningime	Everton FC	Everton FC	09/09/1998	178 cm	MF
+Bernard	Everton FC	Everton FC	08/09/1992	164 cm	MF
+Tyias Browning	Everton FC	Everton FC	27/05/1994	181 cm	DF
+Dominic Calvert-Lewin	Everton FC	Everton FC	16/03/1997	187 cm	FW
+Séamus Coleman	Everton FC	Everton FC	11/08/1988	177 cm	DF
+Tom Davies	Everton FC	Everton FC	30/06/1998	180 cm	MF
+Lucas Digne	Everton FC	Everton FC	20/07/1993	178 cm	DF
+Kieran Dowell	Everton FC	Everton FC	10/10/1997	183 cm	MF
+Brendan Galloway	Everton FC	Everton FC	17/03/1996	188 cm	DF
+Idrissa Gueye	Everton FC	Everton FC	26/09/1989	174 cm	MF
+Mason Holgate	Everton FC	Everton FC	22/10/1996	181 cm	DF
+Phil Jagielka	Everton FC	Everton FC	17/08/1982	180 cm	DF
+João Virginia	Everton FC	Everton FC	10/10/1999	191 cm	GK
+Michael Keane	Everton FC	Everton FC	11/01/1993	188 cm	DF
+Jonjoe Kenny	Everton FC	Everton FC	15/03/1997	176 cm	DF
+Ademola Lookman	Everton FC	Everton FC	20/10/1998	174 cm	FW
+James McCarthy	Everton FC	Everton FC	12/11/1990	180 cm	MF
+Yerry Mina	Everton FC	Everton FC	23/09/1994	195 cm	DF
+Oumar Niasse	Everton FC	Everton FC	18/04/1990	188 cm	FW
+Jordan Pickford	Everton FC	Everton FC	07/03/1994	185 cm	GK
+Richarlison	Everton FC	Everton FC	10/05/1997	179 cm	FW
+Morgan Schneiderlin	Everton FC	Everton FC	08/11/1989	181 cm	MF
+Gylfi Sigurðsson	Everton FC	Everton FC	08/09/1989	186 cm	MF
+Maarten Stekelenburg	Everton FC	Everton FC	22/09/1982	196 cm	GK
+Cenk Tosun	Everton FC	Everton FC	07/06/1991	183 cm	FW
+Theo Walcott	Everton FC	Everton FC	16/03/1989	170 cm	FW
+Kurt Zouma	Everton FC	Everton FC	27/10/1994	190 cm	DF
+Floyd Ayité	Fulham FC	Fulham FC	15/12/1988	174 cm	FW
+Marcus Bettinelli	Fulham FC	Fulham FC	24/05/1992	192 cm	GK
+Joe Bryan	Fulham FC	Fulham FC	17/09/1993	170 cm	DF
+Tom Cairney	Fulham FC	Fulham FC	20/01/1991	182 cm	MF
+Calum Chambers	Fulham FC	Fulham FC	20/01/1995	182 cm	DF
+Cyrus Christie	Fulham FC	Fulham FC	30/09/1992	188 cm	DF
+Ibrahima Cissé	Fulham FC	Fulham FC	28/02/1994	184 cm	MF
+Luca de la Torre	Fulham FC	Fulham FC	23/05/1998	177 cm	MF
+Fabricio	Fulham FC	Fulham FC	31/12/1987	185 cm	GK
+Timothy Fosu-Mensah	Fulham FC	Fulham FC	02/01/1998	190 cm	DF
+Stefan Johansen	Fulham FC	Fulham FC	08/01/1991	182 cm	MF
+Aboubakar Kamara	Fulham FC	Fulham FC	07/03/1995	178 cm	FW
+Neeskens Kebano	Fulham FC	Fulham FC	10/03/1992	172 cm	MF
+Maxime Le Marchand	Fulham FC	Fulham FC	11/10/1989	185 cm	DF
+Alfie Mawson	Fulham FC	Fulham FC	19/01/1994	188 cm	DF
+Kevin McDonald	Fulham FC	Fulham FC	04/11/1988	188 cm	MF
+Aleksandar Mitrović	Fulham FC	Fulham FC	16/09/1994	189 cm	FW
+Matthew O'Riley	Fulham FC	Fulham FC	21/11/2000	187 cm	MF
+Denis Odoi	Fulham FC	Fulham FC	27/05/1988	178 cm	DF
+Tim Ream	Fulham FC	Fulham FC	05/10/1987	185 cm	DF
+André Schürrle	Fulham FC	Fulham FC	06/11/1990	184 cm	FW
+Sergio Rico	Fulham FC	Fulham FC	01/09/1993	194 cm	GK
+Jean Michaël Seri	Fulham FC	Fulham FC	19/07/1991	168 cm	MF
+Ryan Sessegnon	Fulham FC	Fulham FC	18/05/2000	178 cm	FW
+Steven Sessegnon	Fulham FC	Fulham FC	18/05/2000	178 cm	DF
+Luciano Vietto	Fulham FC	Fulham FC	05/12/1993	173 cm	FW
+André Zambo	Fulham FC	Fulham FC	16/11/1995	184 cm	MF
+Juninho Bacuna	Huddersfield Town	Huddersfield Town	07/08/1997	178 cm	MF
+Philip Billing	Huddersfield Town	Huddersfield Town	11/06/1996	193 cm	MF
+Laurent Depoitre	Huddersfield Town	Huddersfield Town	07/12/1988	191 cm	FW
+Adama Diakhaby	Huddersfield Town	Huddersfield Town	05/07/1996	184 cm	FW
+Erik Durm	Huddersfield Town	Huddersfield Town	12/05/1992	183 cm	DF
+Jon Gorenc Stankovič	Huddersfield Town	Huddersfield Town	14/01/1996	190 cm	DF
+Florent Hadergjonaj	Huddersfield Town	Huddersfield Town	31/07/1994	182 cm	DF
+Ben Hamer	Huddersfield Town	Huddersfield Town	20/11/1987	193 cm	GK
+Jonathan Hogg	Huddersfield Town	Huddersfield Town	06/12/1988	177 cm	MF
+Mathias Jørgensen	Huddersfield Town	Huddersfield Town	23/04/1990	191 cm	DF
+Elias Kachunga	Huddersfield Town	Huddersfield Town	22/04/1992	176 cm	FW
+Terence Kongolo	Huddersfield Town	Huddersfield Town	14/02/1994	188 cm	DF
+Jonas Lössl	Huddersfield Town	Huddersfield Town	01/02/1989	195 cm	GK
+Chris Löwe	Huddersfield Town	Huddersfield Town	16/04/1989	175 cm	DF
+Isaac Mbenza	Huddersfield Town	Huddersfield Town	08/03/1996	187 cm	FW
+Aaron Mooy	Huddersfield Town	Huddersfield Town	15/09/1989	179 cm	MF
+Steve Mounié	Huddersfield Town	Huddersfield Town	29/09/1994	190 cm	FW
+Alex Pritchard	Huddersfield Town	Huddersfield Town	03/05/1993	168 cm	MF
+Collin Quaner	Huddersfield Town	Huddersfield Town	18/06/1991	191 cm	FW
+Abdelhamid Sabiri	Huddersfield Town	Huddersfield Town	28/11/1996	186 cm	MF
+Christopher Schindler	Huddersfield Town	Huddersfield Town	29/04/1990	188 cm	DF
+Ryan Schofield	Huddersfield Town	Huddersfield Town	11/12/1999	190 cm	GK
+Tom Smith	Huddersfield Town	Huddersfield Town	14/04/1992	186 cm	DF
+Ramadan Sobhi	Huddersfield Town	Huddersfield Town	23/01/1997	183 cm	MF
+Rajiv van La Parra	Huddersfield Town	Huddersfield Town	04/06/1991	181 cm	MF
+Daniel Williams	Huddersfield Town	Huddersfield Town	08/03/1989	182 cm	MF
+Adrien Silva	Leicester City	Leicester City	15/03/1989	175 cm	MF
+Marc Albrighton	Leicester City	Leicester City	18/11/1989	175 cm	MF
+Daniel Amartey	Leicester City	Leicester City	21/12/1994	183 cm	DF
+Yohan Benalouane	Leicester City	Leicester City	28/03/1987	185 cm	DF
+Ben Chilwell	Leicester City	Leicester City	21/12/1996	187 cm	DF
+Hamza Choudhury	Leicester City	Leicester City	01/10/1997	178 cm	MF
+Fousséni Diabaté	Leicester City	Leicester City	18/10/1995	175 cm	FW
+Callum Elder	Leicester City	Leicester City	27/01/1995	180 cm	DF
+Jonny Evans	Leicester City	Leicester City	03/01/1988	189 cm	DF
+Christian Fuchs	Leicester City	Leicester City	07/04/1986	186 cm	DF
+Rachid Ghezzal	Leicester City	Leicester City	09/05/1992	182 cm	FW
+Demarai Gray	Leicester City	Leicester City	28/06/1996	179 cm	MF
+Iborra	Leicester City	Leicester City	16/01/1988	190 cm	MF
+Kelechi Iheanacho	Leicester City	Leicester City	03/10/1996	185 cm	FW
+Eldin Jakupović	Leicester City	Leicester City	02/10/1984	191 cm	GK
+Matty James	Leicester City	Leicester City	22/07/1991	178 cm	MF
+Andy King	Leicester City	Leicester City	29/10/1988	183 cm	MF
+James Maddison	Leicester City	Leicester City	23/11/1996	179 cm	MF
+Harry Maguire	Leicester City	Leicester City	05/03/1993	194 cm	DF
+Nampalys Mendy	Leicester City	Leicester City	23/06/1992	167 cm	MF
+Wes Morgan	Leicester City	Leicester City	21/01/1984	186 cm	DF
+Wilfred Ndidi	Leicester City	Leicester City	16/12/1996	187 cm	MF
+Shinji Okazaki	Leicester City	Leicester City	16/04/1986	173 cm	FW
+Ricardo Pereira	Leicester City	Leicester City	06/10/1993	175 cm	MF
+Kasper Schmeichel	Leicester City	Leicester City	05/11/1986	185 cm	GK
+Danny Simpson	Leicester City	Leicester City	04/01/1987	173 cm	DF
+Çağlar Söyüncü	Leicester City	Leicester City	23/05/1996	187 cm	DF
+Jamie Vardy	Leicester City	Leicester City	11/01/1987	178 cm	FW
+Danny Ward	Leicester City	Leicester City	22/06/1993	191 cm	GK
+Alberto Moreno	Liverpool FC	Liverpool FC	05/07/1992	172 cm	DF
+Trent Alexander-Arnold	Liverpool FC	Liverpool FC	07/10/1998	175 cm	DF
+Alisson	Liverpool FC	Liverpool FC	02/10/1992	191 cm	GK
+Nathaniel Clyne	Liverpool FC	Liverpool FC	05/04/1991	175 cm	DF
+Fabinho	Liverpool FC	Liverpool FC	23/10/1993	188 cm	MF
+Joe Gomez	Liverpool FC	Liverpool FC	23/05/1997	188 cm	DF
+Kamil Grabara	Liverpool FC	Liverpool FC	08/01/1999	194 cm	GK
+Jordan Henderson	Liverpool FC	Liverpool FC	17/06/1990	185 cm	MF
+Curtis Jones	Liverpool FC	Liverpool FC	30/01/2001	185 cm	MF
+Naby Keïta	Liverpool FC	Liverpool FC	10/02/1995	172 cm	MF
+Adam Lallana	Liverpool FC	Liverpool FC	10/05/1988	173 cm	MF
+Dejan Lovren	Liverpool FC	Liverpool FC	05/07/1989	188 cm	DF
+Sadio Mané	Liverpool FC	Liverpool FC	10/04/1992	175 cm	FW
+Lazar Marković	Liverpool FC	Liverpool FC	02/03/1994	175 cm	MF
+Joel Matip	Liverpool FC	Liverpool FC	08/08/1991	193 cm	DF
+Simon Mignolet	Liverpool FC	Liverpool FC	06/03/1988	193 cm	GK
+James Milner	Liverpool FC	Liverpool FC	04/01/1986	176 cm	MF
+Divock Origi	Liverpool FC	Liverpool FC	18/04/1995	185 cm	FW
+Alex Oxlade-Chamberlain	Liverpool FC	Liverpool FC	15/08/1993	175 cm	MF
+Connor Randall	Liverpool FC	Liverpool FC	21/10/1995	180 cm	DF
+Roberto Firmino	Liverpool FC	Liverpool FC	02/10/1991	181 cm	FW
+Andrew Robertson	Liverpool FC	Liverpool FC	11/03/1994	178 cm	DF
+Mohamed Salah	Liverpool FC	Liverpool FC	15/06/1992	175 cm	FW
+Xherdan Shaqiri	Liverpool FC	Liverpool FC	10/10/1991	169 cm	FW
+Dominic Solanke	Liverpool FC	Liverpool FC	14/09/1997	187 cm	FW
+Daniel Sturridge	Liverpool FC	Liverpool FC	01/09/1989	180 cm	FW
+Virgil van Dijk	Liverpool FC	Liverpool FC	08/07/1991	193 cm	DF
+Georginio Wijnaldum	Liverpool FC	Liverpool FC	11/11/1990	173 cm	MF
+Adrián Bernabé	Manchester City	Manchester City	26/05/2001	???	MF
+Kun Agüero	Manchester City	Manchester City	02/06/1988	172 cm	FW
+Bernardo Silva	Manchester City	Manchester City	10/08/1994	173 cm	FW
+Brahim Díaz	Manchester City	Manchester City	03/08/1999	170 cm	MF
+Claudio Bravo	Manchester City	Manchester City	13/04/1983	185 cm	GK
+Danilo	Manchester City	Manchester City	15/07/1991	184 cm	DF
+David Silva	Manchester City	Manchester City	08/01/1986	170 cm	MF
+Kevin De Bruyne	Manchester City	Manchester City	28/06/1991	181 cm	MF
+Fabian Delph	Manchester City	Manchester City	21/11/1989	174 cm	DF
+Ederson	Manchester City	Manchester City	17/08/1993	188 cm	GK
+Fernandinho	Manchester City	Manchester City	04/05/1985	179 cm	MF
+Phil Foden	Manchester City	Manchester City	28/05/2000	171 cm	MF
+Gabriel Jesus	Manchester City	Manchester City	03/04/1997	175 cm	FW
+Claudio Gomes	Manchester City	Manchester City	23/07/2000	180 cm	MF
+İlkay Gündoğan	Manchester City	Manchester City	24/10/1990	180 cm	MF
+Yangel Herrera	Manchester City	Manchester City	07/01/1998	183 cm	MF
+Vincent Kompany	Manchester City	Manchester City	10/04/1986	193 cm	DF
+Aymeric Laporte	Manchester City	Manchester City	27/05/1994	191 cm	DF
+Riyad Mahrez	Manchester City	Manchester City	21/02/1991	179 cm	MF
+Eliaquim Mangala	Manchester City	Manchester City	13/02/1991	187 cm	DF
+Benjamin Mendy	Manchester City	Manchester City	17/07/1994	185 cm	DF
+Marlos Moreno	Manchester City	Manchester City	20/09/1996	171 cm	FW
+Aro Murić	Manchester City	Manchester City	07/11/1998	198 cm	GK
+Nicolás Otamendi	Manchester City	Manchester City	12/02/1988	184 cm	DF
+Philippe Sandler	Manchester City	Manchester City	10/02/1997	188 cm	DF
+Leroy Sané	Manchester City	Manchester City	11/01/1996	183 cm	FW
+Raheem Sterling	Manchester City	Manchester City	08/12/1994	170 cm	FW
+John Stones	Manchester City	Manchester City	28/05/1994	188 cm	DF
+Kyle Walker	Manchester City	Manchester City	28/05/1990	178 cm	DF
+Oleksandr Zinchenko	Manchester City	Manchester City	15/12/1996	175 cm	MF
+Ander Herrera	Manchester United	Manchester United	14/08/1989	182 cm	MF
+Andreas Pereira	Manchester United	Manchester United	01/01/1996	178 cm	MF
+Eric Bailly	Manchester United	Manchester United	12/04/1994	187 cm	DF
+Matteo Darmian	Manchester United	Manchester United	02/12/1989	182 cm	DF
+De Gea	Manchester United	Manchester United	07/11/1990	189 cm	GK
+Diogo Dalot	Manchester United	Manchester United	18/03/1999	184 cm	DF
+Marouane Fellaini	Manchester United	Manchester United	22/11/1987	194 cm	MF
+Fred	Manchester United	Manchester United	05/03/1993	169 cm	MF
+Lee Grant	Manchester United	Manchester United	27/01/1983	193 cm	GK
+Phil Jones	Manchester United	Manchester United	21/02/1992	180 cm	DF
+Victor Lindelöf	Manchester United	Manchester United	17/07/1994	187 cm	DF
+Jesse Lingard	Manchester United	Manchester United	15/12/1992	174 cm	MF
+Romelu Lukaku	Manchester United	Manchester United	13/05/1993	192 cm	FW
+Anthony Martial	Manchester United	Manchester United	05/12/1995	181 cm	FW
+Mata	Manchester United	Manchester United	28/04/1988	170 cm	MF
+Nemanja Matić	Manchester United	Manchester United	01/08/1988	194 cm	MF
+Scott McTominay	Manchester United	Manchester United	08/12/1996	193 cm	MF
+Paul Pogba	Manchester United	Manchester United	15/03/1993	191 cm	MF
+Marcus Rashford	Manchester United	Manchester United	31/10/1997	185 cm	FW
+Marcos Rojo	Manchester United	Manchester United	20/03/1990	187 cm	DF
+Sergio Romero	Manchester United	Manchester United	22/02/1987	191 cm	GK
+Alexis Sánchez	Manchester United	Manchester United	19/12/1988	169 cm	FW
+Luke Shaw	Manchester United	Manchester United	12/07/1995	185 cm	DF
+Chris Smalling	Manchester United	Manchester United	22/11/1989	193 cm	DF
+Antonio Valencia	Manchester United	Manchester United	04/08/1985	179 cm	DF
+Ashley Young	Manchester United	Manchester United	09/07/1985	176 cm	DF
+Rolando Aarons	Newcastle United	Newcastle United	16/11/1995	178 cm	MF
+Christian Atsu	Newcastle United	Newcastle United	10/01/1992	172 cm	FW
+Ayoze Pérez	Newcastle United	Newcastle United	23/07/1993	179 cm	MF
+Ciaran Clark	Newcastle United	Newcastle United	26/09/1989	188 cm	DF
+Karl Darlow	Newcastle United	Newcastle United	08/10/1990	190 cm	GK
+Momo Diamé	Newcastle United	Newcastle United	14/06/1987	181 cm	MF
+Martin Dúbravka	Newcastle United	Newcastle United	15/01/1989	191 cm	GK
+Paul Dummett	Newcastle United	Newcastle United	26/09/1991	183 cm	DF
+Rob Elliot	Newcastle United	Newcastle United	30/04/1986	190 cm	GK
+Federico Fernández	Newcastle United	Newcastle United	21/02/1989	189 cm	DF
+Isaac Hayden	Newcastle United	Newcastle United	22/03/1995	187 cm	MF
+Joselu	Newcastle United	Newcastle United	27/03/1990	191 cm	FW
+Kenedy	Newcastle United	Newcastle United	08/02/1996	182 cm	MF
+Sung-yueng Ki	Newcastle United	Newcastle United	24/01/1989	187 cm	MF
+Jamaal Lascelles	Newcastle United	Newcastle United	11/11/1993	189 cm	DF
+Achraf Lazaar	Newcastle United	Newcastle United	22/01/1992	184 cm	DF
+Florian Lejeune	Newcastle United	Newcastle United	20/05/1991	190 cm	DF
+Sean Longstaff	Newcastle United	Newcastle United	30/10/1997	181 cm	MF
+Manquillo	Newcastle United	Newcastle United	05/05/1994	178 cm	DF
+Jacob Murphy	Newcastle United	Newcastle United	24/02/1995	176 cm	FW
+Yoshinori Mutō	Newcastle United	Newcastle United	15/07/1992	179 cm	FW
+Matt Ritchie	Newcastle United	Newcastle United	10/09/1989	173 cm	MF
+Salomón Rondón	Newcastle United	Newcastle United	16/09/1989	190 cm	FW
+Fabian Schär	Newcastle United	Newcastle United	20/12/1991	188 cm	DF
+Jonjo Shelvey	Newcastle United	Newcastle United	27/02/1992	185 cm	MF
+Jamie Sterry	Newcastle United	Newcastle United	21/11/1995	180 cm	DF
+Freddie Woodman	Newcastle United	Newcastle United	04/03/1997	189 cm	GK
+DeAndre Yedlin	Newcastle United	Newcastle United	09/07/1993	172 cm	DF
+Stuart Armstrong	Southampton FC	Southampton FC	30/03/1992	183 cm	MF
+Charlie Austin	Southampton FC	Southampton FC	05/07/1989	188 cm	FW
+Jan Bednarek	Southampton FC	Southampton FC	12/04/1996	189 cm	DF
+Ryan Bertrand	Southampton FC	Southampton FC	05/08/1989	179 cm	DF
+Cédric Soares	Southampton FC	Southampton FC	31/08/1991	172 cm	DF
+Steven Davis	Southampton FC	Southampton FC	01/01/1985	173 cm	MF
+Mohamed Elyounoussi	Southampton FC	Southampton FC	04/08/1994	178 cm	FW
+Fraser Forster	Southampton FC	Southampton FC	17/03/1988	201 cm	GK
+Manolo Gabbiadini	Southampton FC	Southampton FC	26/11/1991	186 cm	FW
+Sam Gallagher	Southampton FC	Southampton FC	15/09/1995	194 cm	FW
+Angus Gunn	Southampton FC	Southampton FC	22/01/1996	196 cm	GK
+Wesley Hoedt	Southampton FC	Southampton FC	06/03/1994	188 cm	DF
+Pierre-Emile Højbjerg	Southampton FC	Southampton FC	05/08/1995	186 cm	MF
+Danny Ings	Southampton FC	Southampton FC	23/07/1992	178 cm	FW
+Mario Lemina	Southampton FC	Southampton FC	01/09/1993	184 cm	MF
+Harry Lewis	Southampton FC	Southampton FC	20/12/1997	191 cm	GK
+Shane Long	Southampton FC	Southampton FC	22/01/1987	180 cm	FW
+Alex McCarthy	Southampton FC	Southampton FC	03/12/1989	193 cm	GK
+Oriol Romeu	Southampton FC	Southampton FC	24/09/1991	182 cm	MF
+Nathan Redmond	Southampton FC	Southampton FC	06/03/1994	173 cm	MF
+Jack Stephens	Southampton FC	Southampton FC	27/01/1994	185 cm	DF
+Matt Targett	Southampton FC	Southampton FC	18/09/1995	183 cm	DF
+Rolando Aarons	Newcastle United	Newcastle United	16/11/1995	178 cm	MF
+Christian Atsu	Newcastle United	Newcastle United	10/01/1992	172 cm	FW
+Ayoze Pérez	Newcastle United	Newcastle United	23/07/1993	179 cm	MF
+Ciaran Clark	Newcastle United	Newcastle United	26/09/1989	188 cm	DF
+Karl Darlow	Newcastle United	Newcastle United	08/10/1990	190 cm	GK
+Momo Diamé	Newcastle United	Newcastle United	14/06/1987	181 cm	MF
+Martin Dúbravka	Newcastle United	Newcastle United	15/01/1989	191 cm	GK
+Paul Dummett	Newcastle United	Newcastle United	26/09/1991	183 cm	DF
+Rob Elliot	Newcastle United	Newcastle United	30/04/1986	190 cm	GK
+Federico Fernández	Newcastle United	Newcastle United	21/02/1989	189 cm	DF
+Isaac Hayden	Newcastle United	Newcastle United	22/03/1995	187 cm	MF
+Joselu	Newcastle United	Newcastle United	27/03/1990	191 cm	FW
+Kenedy	Newcastle United	Newcastle United	08/02/1996	182 cm	MF
+Sung-yueng Ki	Newcastle United	Newcastle United	24/01/1989	187 cm	MF
+Jamaal Lascelles	Newcastle United	Newcastle United	11/11/1993	189 cm	DF
+Achraf Lazaar	Newcastle United	Newcastle United	22/01/1992	184 cm	DF
+Florian Lejeune	Newcastle United	Newcastle United	20/05/1991	190 cm	DF
+Sean Longstaff	Newcastle United	Newcastle United	30/10/1997	181 cm	MF
+Manquillo	Newcastle United	Newcastle United	05/05/1994	178 cm	DF
+Jacob Murphy	Newcastle United	Newcastle United	24/02/1995	176 cm	FW
+Yoshinori Mutō	Newcastle United	Newcastle United	15/07/1992	179 cm	FW
+Matt Ritchie	Newcastle United	Newcastle United	10/09/1989	173 cm	MF
+Salomón Rondón	Newcastle United	Newcastle United	16/09/1989	190 cm	FW
+Fabian Schär	Newcastle United	Newcastle United	20/12/1991	188 cm	DF
+Jonjo Shelvey	Newcastle United	Newcastle United	27/02/1992	185 cm	MF
+Jamie Sterry	Newcastle United	Newcastle United	21/11/1995	180 cm	DF
+Freddie Woodman	Newcastle United	Newcastle United	04/03/1997	189 cm	GK
+DeAndre Yedlin	Newcastle United	Newcastle United	09/07/1993	172 cm	DF
+Stuart Armstrong	Southampton FC	Southampton FC	30/03/1992	183 cm	MF
+Charlie Austin	Southampton FC	Southampton FC	05/07/1989	188 cm	FW
+Jan Bednarek	Southampton FC	Southampton FC	12/04/1996	189 cm	DF
+Ryan Bertrand	Southampton FC	Southampton FC	05/08/1989	179 cm	DF
+Cédric Soares	Southampton FC	Southampton FC	31/08/1991	172 cm	DF
+Steven Davis	Southampton FC	Southampton FC	01/01/1985	173 cm	MF
+Mohamed Elyounoussi	Southampton FC	Southampton FC	04/08/1994	178 cm	FW
+Fraser Forster	Southampton FC	Southampton FC	17/03/1988	201 cm	GK
+Manolo Gabbiadini	Southampton FC	Southampton FC	26/11/1991	186 cm	FW
+Sam Gallagher	Southampton FC	Southampton FC	15/09/1995	194 cm	FW
+Angus Gunn	Southampton FC	Southampton FC	22/01/1996	196 cm	GK
+Wesley Hoedt	Southampton FC	Southampton FC	06/03/1994	188 cm	DF
+Pierre-Emile Højbjerg	Southampton FC	Southampton FC	05/08/1995	186 cm	MF
+Danny Ings	Southampton FC	Southampton FC	23/07/1992	178 cm	FW
+Mario Lemina	Southampton FC	Southampton FC	01/09/1993	184 cm	MF
+Harry Lewis	Southampton FC	Southampton FC	20/12/1997	191 cm	GK
+Shane Long	Southampton FC	Southampton FC	22/01/1987	180 cm	FW
+Alex McCarthy	Southampton FC	Southampton FC	03/12/1989	193 cm	GK
+Oriol Romeu	Southampton FC	Southampton FC	24/09/1991	182 cm	MF
+Nathan Redmond	Southampton FC	Southampton FC	06/03/1994	173 cm	MF
+Jack Stephens	Southampton FC	Southampton FC	27/01/1994	185 cm	DF
+Matt Targett	Southampton FC	Southampton FC	18/09/1995	183 cm	DF
+Rolando Aarons	Newcastle United	Newcastle United	16/11/1995	178 cm	MF
+Christian Atsu	Newcastle United	Newcastle United	10/01/1992	172 cm	FW
+Ayoze Pérez	Newcastle United	Newcastle United	23/07/1993	179 cm	MF
+Ciaran Clark	Newcastle United	Newcastle United	26/09/1989	188 cm	DF
+Karl Darlow	Newcastle United	Newcastle United	08/10/1990	190 cm	GK
+Momo Diamé	Newcastle United	Newcastle United	14/06/1987	181 cm	MF
+Martin Dúbravka	Newcastle United	Newcastle United	15/01/1989	191 cm	GK
+Paul Dummett	Newcastle United	Newcastle United	26/09/1991	183 cm	DF
+Rob Elliot	Newcastle United	Newcastle United	30/04/1986	190 cm	GK
+Federico Fernández	Newcastle United	Newcastle United	21/02/1989	189 cm	DF
+Isaac Hayden	Newcastle United	Newcastle United	22/03/1995	187 cm	MF
+Joselu	Newcastle United	Newcastle United	27/03/1990	191 cm	FW
+Kenedy	Newcastle United	Newcastle United	08/02/1996	182 cm	MF
+Sung-yueng Ki	Newcastle United	Newcastle United	24/01/1989	187 cm	MF
+Jamaal Lascelles	Newcastle United	Newcastle United	11/11/1993	189 cm	DF
+Achraf Lazaar	Newcastle United	Newcastle United	22/01/1992	184 cm	DF
+Florian Lejeune	Newcastle United	Newcastle United	20/05/1991	190 cm	DF
+Sean Longstaff	Newcastle United	Newcastle United	30/10/1997	181 cm	MF
+Manquillo	Newcastle United	Newcastle United	05/05/1994	178 cm	DF
+Jacob Murphy	Newcastle United	Newcastle United	24/02/1995	176 cm	FW
+Yoshinori Mutō	Newcastle United	Newcastle United	15/07/1992	179 cm	FW
+Matt Ritchie	Newcastle United	Newcastle United	10/09/1989	173 cm	MF
+Salomón Rondón	Newcastle United	Newcastle United	16/09/1989	190 cm	FW
+Fabian Schär	Newcastle United	Newcastle United	20/12/1991	188 cm	DF
+Jonjo Shelvey	Newcastle United	Newcastle United	27/02/1992	185 cm	MF
+Jamie Sterry	Newcastle United	Newcastle United	21/11/1995	180 cm	DF
+Freddie Woodman	Newcastle United	Newcastle United	04/03/1997	189 cm	GK
+DeAndre Yedlin	Newcastle United	Newcastle United	09/07/1993	172 cm	DF
+Stuart Armstrong	Southampton FC	Southampton FC	30/03/1992	183 cm	MF
+Charlie Austin	Southampton FC	Southampton FC	05/07/1989	188 cm	FW
+Jan Bednarek	Southampton FC	Southampton FC	12/04/1996	189 cm	DF
+Ryan Bertrand	Southampton FC	Southampton FC	05/08/1989	179 cm	DF
+Cédric Soares	Southampton FC	Southampton FC	31/08/1991	172 cm	DF
+Steven Davis	Southampton FC	Southampton FC	01/01/1985	173 cm	MF
+Mohamed Elyounoussi	Southampton FC	Southampton FC	04/08/1994	178 cm	FW
+Fraser Forster	Southampton FC	Southampton FC	17/03/1988	201 cm	GK
+Manolo Gabbiadini	Southampton FC	Southampton FC	26/11/1991	186 cm	FW
+Sam Gallagher	Southampton FC	Southampton FC	15/09/1995	194 cm	FW
+Angus Gunn	Southampton FC	Southampton FC	22/01/1996	196 cm	GK
+Wesley Hoedt	Southampton FC	Southampton FC	06/03/1994	188 cm	DF
+Pierre-Emile Højbjerg	Southampton FC	Southampton FC	05/08/1995	186 cm	MF
+Danny Ings	Southampton FC	Southampton FC	23/07/1992	178 cm	FW
+Mario Lemina	Southampton FC	Southampton FC	01/09/1993	184 cm	MF
+Harry Lewis	Southampton FC	Southampton FC	20/12/1997	191 cm	GK
+Shane Long	Southampton FC	Southampton FC	22/01/1987	180 cm	FW
+Alex McCarthy	Southampton FC	Southampton FC	03/12/1989	193 cm	GK
+Oriol Romeu	Southampton FC	Southampton FC	24/09/1991	182 cm	MF
+Nathan Redmond	Southampton FC	Southampton FC	06/03/1994	173 cm	MF
+Jack Stephens	Southampton FC	Southampton FC	27/01/1994	185 cm	DF
+Matt Targett	Southampton FC	Southampton FC	18/09/1995	183 cm	DF
+Ryan Giles	Wolverhampton Wanderers	Wolverhampton Wanderers	26/01/2000	???	MF
+Kortney Hause	Wolverhampton Wanderers	Wolverhampton Wanderers	16/07/1995	189 cm	DF
+Hélder Costa	Wolverhampton Wanderers	Wolverhampton Wanderers	12/01/1994	178 cm	FW
+Dominic Iorfa	Wolverhampton Wanderers	Wolverhampton Wanderers	24/06/1995	193 cm	DF
+Ivan Cavaleiro	Wolverhampton Wanderers	Wolverhampton Wanderers	18/10/1993	175 cm	FW
+Raúl Jiménez	Wolverhampton Wanderers	Wolverhampton Wanderers	05/05/1991	188 cm	FW
+João Moutinho	Wolverhampton Wanderers	Wolverhampton Wanderers	08/09/1986	170 cm	MF
+Jonny	Wolverhampton Wanderers	Wolverhampton Wanderers	03/03/1994	170 cm	DF
+Léo Bonatini	Wolverhampton Wanderers	Wolverhampton Wanderers	28/03/1994	185 cm	FW
+Joe Mason	Wolverhampton Wanderers	Wolverhampton Wanderers	13/05/1991	178 cm	FW
+Will Norris	Wolverhampton Wanderers	Wolverhampton Wanderers	12/08/1993	195 cm	GK
+Pote	Wolverhampton Wanderers	Wolverhampton Wanderers	28/06/1998	173 cm	MF
+Connor Ronan	Wolverhampton Wanderers	Wolverhampton Wanderers	06/03/1998	170 cm	MF
+Rúben Neves	Wolverhampton Wanderers	Wolverhampton Wanderers	13/03/1997	180 cm	MF
+Rúben Vinagre	Wolverhampton Wanderers	Wolverhampton Wanderers	09/04/1999	174 cm	DF
+John Ruddy	Wolverhampton Wanderers	Wolverhampton Wanderers	24/10/1986	193 cm	GK
+Rui Patrício	Wolverhampton Wanderers	Wolverhampton Wanderers	15/02/1988	188 cm	GK
+Romain Saïss	Wolverhampton Wanderers	Wolverhampton Wanderers	26/03/1990	190 cm	MF
+Adama Traoré	Wolverhampton Wanderers	Wolverhampton Wanderers	25/01/1996	172 cm	FW
+Elliot Watt	Wolverhampton Wanderers	Wolverhampton Wanderers	11/03/2000	???	MF

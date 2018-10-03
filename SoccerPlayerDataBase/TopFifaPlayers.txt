@@ -3,7 +3,7 @@ Lionel Messi	Barcelona	CF	94  88 Pac  96 Dri  91 Sho  32 Def  88 Pas  61 Phy
 Neymar	Paris Saint-Germain	LW	92  92 Pac  95 Dri  84 Sho  32 Def  83 Pas  59 Phy 
 Luca Modri	Real Madrid	CM	91  76 Pac  91 Dri  76 Sho  70 Def  90 Pas  67 Phy
 Kevin De Bruyne	Manchester City	CAM	91  77 Pac  87 Dri  86 Sho  60 Def  92 Pas  78 Phy
-Eden Hazard	Chelsea	LW	91
+Eden Hazard	Chelsea	LW	91  91 94 82 35 86 
 Sergio Ramos	Real Madrid	CB	91
 Luis Suarez	Barcelona	ST	91
 David De Gea	Manchester United	GK	91
@@ -43,7 +43,7 @@ Kylian Mbappe	Paris Saint-Germain	RW	87
 Gerard Pique	Barcelona	CB	87
 Ivan Rakitic	Barcelona	CM	87
 Romelu Lukaku	Manchester United	ST	87
-Marek Hamsík	Napoli	CM	87
+Marek Hamsï¿½k	Napoli	CM	87
 Samuel Umtiti	Barcelona	CB	87
 Jan Vertonghen	Tottenham Hotspur	CB	87
 Jordi Alba	Barcelona	LB	87
@@ -65,7 +65,7 @@ Marco Verratti	Paris Saint-Germain	CM	86
 Roberto Firmino	Liverpool	CF	86
 Ederson	Manchester City	GK	86
 Thomas Muller	Bayern Munich	CF	86
-Jérôme Boateng	Bayern Munich	CB	86
+Jï¿½rï¿½me Boateng	Bayern Munich	CB	86
 Leondardo Bonucci	Juventus	CB	86
 Leroy Sane	Manchester City	LW	86
 Miralem Pjanic	Juventus	CM	86
@@ -86,7 +86,7 @@ David Alaba	Bayern Munich	LB	85
 Alisson	Liverpool	GK	85
 Arjen Robben	Bayern Munich	RM	85
 Vincent Kompany	Manchester City	CB	85
-Felipe Luís	Atletico De Madrid	LB	85
+Felipe Luï¿½s	Atletico De Madrid	LB	85
 Marco Reus	Borussia Dortmund	LM	85
 Koke	Atletico De Madrid	LM	85
 Edin Dzeko	Roma	ST	85

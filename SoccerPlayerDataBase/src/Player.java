@@ -2,30 +2,20 @@
 public class Player
 	{
 		private String name;
-		private String nationality;
 		private String team;
+		private int birthYear;
+		private int height;
 		private String position;
-		private int overall;
-		private int pace;
-		private int dribble;
-		private int shot;
-		private int defense;
-		private int pass;
-		private int physical;
 		
-		public Player(String n, String na, String t, String pos, int ovr, int pac, int dri, int sho, int def, int pas, int phy)
+		
+		public Player(String n, String t, int b, int h, int w, String pos)
 		{
 			name = n;
-			nationality = na; 
 			team = t;
+			birthYear = b;
+			height = h;
 			position = pos;
-			overall = ovr;
-			pace = pac;
-			dribble = dri;
-			shot = sho;
-			defense = def;
-			pass = pas;
-			physical = phy;
+			
 		}
 		public String getName()
 			{
@@ -35,14 +25,6 @@ public class Player
 			{
 				this.name = name;
 			}
-		public String getNationality()
-			{
-				return nationality;
-			}
-		public void setNationality(String nationality)
-			{
-				this.nationality = nationality;
-			}
 		public String getTeam()
 			{
 				return team;
@@ -51,6 +33,18 @@ public class Player
 			{
 				this.team = team;
 			}
+		public int getBirthYear() {
+			return birthYear;
+		}
+		public void setBirthYear(int birthYear) {
+			this.birthYear = birthYear;
+		}
+		public int getHeight() {
+			return height;
+		}
+		public void setHeight(int height) {
+			this.height = height;
+		}
 		public String getPosition()
 			{
 				return position;
@@ -59,60 +53,5 @@ public class Player
 			{
 				this.position = position;
 			}
-		public int getOverall()
-			{
-				return overall;
-			}
-		public void setOverall(int overall)
-			{
-				this.overall = overall;
-			}
-		public int getPace()
-			{
-				return pace;
-			}
-		public void setPace(int pace)
-			{
-				this.pace = pace;
-			}
-		public int getDribble()
-			{
-				return dribble;
-			}
-		public void setDribble(int dribble)
-			{
-				this.dribble = dribble;
-			}
-		public int getShot()
-			{
-				return shot;
-			}
-		public void setShot(int shot)
-			{
-				this.shot = shot;
-			}
-		public int getDefense()
-			{
-				return defense;
-			}
-		public void setDefense(int defense)
-			{
-				this.defense = defense;
-			}
-		public int getPass()
-			{
-				return pass;
-			}
-		public void setPass(int pass)
-			{
-				this.pass = pass;
-			}
-		public int getPhysical()
-			{
-				return physical;
-			}
-		public void setPhysical(int physical)
-			{
-				this.physical = physical;
-			}
+		
 	}
