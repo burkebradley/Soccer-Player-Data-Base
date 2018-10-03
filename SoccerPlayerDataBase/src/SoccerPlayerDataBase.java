@@ -13,7 +13,7 @@ public class SoccerPlayerDataBase
 		private static Scanner userInputOne;
 		private static Scanner userInputTwo;
 		private static String playerSearched;
-		private static String beginSearch;
+		private static int beginSearch;
 
 		public static void main(String[] args) throws IOException
 		{
@@ -51,7 +51,7 @@ public class SoccerPlayerDataBase
 			beginSearch = userInputTwo.nextInt();			
 			if (beginSearch == 1)
 				{
-					
+					playerSearch();
 				}
 		}
 	}
