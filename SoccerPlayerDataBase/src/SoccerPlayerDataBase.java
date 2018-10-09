@@ -27,7 +27,7 @@ public class SoccerPlayerDataBase
 			playerList = new Scanner(new File("BPLPlayers.txt"));
 			while (playerList.hasNext())
 				{
-					database.add(new Player(playerList.next(),playerList.next(),playerList.nextInt(),playerList.nextInt(),playerList.next()));	
+					database.add(new Player(playerList.next(),playerList.next(),playerList.next(),playerList.next(),playerList.next()));	
 				}
 			for (int i = 0; i <database.size(); i++)
 				{

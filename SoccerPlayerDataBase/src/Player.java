@@ -3,12 +3,12 @@ public class Player
 	{
 		private String name;
 		private String team;
-		private int birthYear;
-		private int height;
+		private String birthYear;
+		private String height;
 		private String position;
 		
 		
-		public Player(String n, String t, int b, int h, String pOS)
+		public Player(String n, String t, String b, String h, String pOS)
 		{
 			name = n;
 			team = t;
@@ -33,16 +33,17 @@ public class Player
 			{
 				this.team = team;
 			}
-		public int getBirthYear() {
+		public String getBirthYear() {
 			return birthYear;
 		}
-		public void setBirthYear(int birthYear) {
+		public void setBirthYear(String birthYear) {
 			this.birthYear = birthYear;
 		}
-		public int getHeight() {
+		
+		public String getHeight() {
 			return height;
 		}
-		public void setHeight(int height) {
+		public void setHeight(String height) {
 			this.height = height;
 		}
 		public String getPosition()
