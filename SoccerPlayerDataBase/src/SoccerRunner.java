@@ -4,8 +4,8 @@ public class SoccerRunner
 	{
 		public static void main(String[] args) throws IOException
 			{
-//				SoccerPlayerDataBase.soccerPlayers();
-//				SoccerPlayerDataBase.playerSearch();
+				SoccerPlayerDataBase.soccerPlayers();
+				SoccerPlayerDataBase.playerSearch();
 				SoccerPlayerDataBase.promptUser();
 			}
 	}
