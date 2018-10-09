@@ -39,13 +39,14 @@ public class Player
 		public void setBirthYear(String birthYear) {
 			this.birthYear = birthYear;
 		}
-		
-		public String getHeight() {
-			return height;
-		}
-		public void setHeight(String height) {
-			this.height = height;
-		}
+		public String getHeight()
+			{
+				return height;
+			}
+		public void setHeight(String height)
+			{
+				this.height = height;
+			}
 		public String getPosition()
 			{
 				return position;

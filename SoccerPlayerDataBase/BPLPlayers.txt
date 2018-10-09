@@ -33,7 +33,7 @@ Petr_Cech Arsenal_FC   20/05/1982 196  GK
 Mohamed_El_Neny Arsenal_FC   11/07/1992 180  MF
 Matteo_Guendouzi Arsenal_FC  14/04/1999 185  MF
 Hecctor_Bellerin Arsenal_FC   19/03/1995 178  DF
-Rob Holding Arsenal_FC   20/09/1995 189  DF
+Rob_Holding Arsenal_FC   20/09/1995 189  DF
 Alex_Iwobi Arsenal_FC  03/05/1996 183  FW
 Carl_Jenkinson Arsenal_FC   08/02/1992 185  DF
 Sead_Kolasinac Arsenal_FC   20/06/1993 183  DF
@@ -79,7 +79,7 @@ Jurgen_Locadia   Brighton_&_Hove_Albion 07/11/1993 185  FW
 Solomon_March  Brighton_&_Hove_Albion 26/07/1994 185  MF
 Martn_Montoya  Brighton_&_Hove_Albion 14/04/1991 175  DF
 Glenn_Murray Brighton_&_Hove_Albion 25/09/1983 183  FW
-Oliver Norwood  Brighton_&_Hove_Albion 12/04/1991 180  MF
+Oliver_Norwood  Brighton_&_Hove_Albion 12/04/1991 180  MF
 Davy_Propper Brighton_&_Hove_Albion 02/09/1991 185  MF
 Mathew_Ryan Brighton_&_Hove_Albion 08/04/1992 184  GK
 Ezequiel_Schelotto Brighton_&_Hove_Albion 23/05/1989 187  DF
@@ -145,31 +145,6 @@ Jazz_Richards Cardiff_City 12/04/1991 185  DF
 Alex_Smithies Cardiff_City 05/03/1990 189  GK
 Lee_Tomlin Cardiff_City 12/01/1989 180  FW
 Danny_Ward Cardiff_City 11/12/1991 180  FW
-Kenneth_Zohore Cardiff_City 31/01/1994 190  FW
-Ethan_Ampadu Chelsea_FC 14/09/2000 182  DF
-Azpilicueta Chelsea_FC 28/08/1989 178  DF
-Ross_Barkley Chelsea_FC 05/12/1993 189  MF
-Harry_Artery Cardiff_City 28/12/1989 178  MF
-Souleymane_Bamba Cardiff_City 13/01/1985 190  DF
-Joe_BennettCardiff_City 28/03/1990 177  DF
-Ciaron_Brown Cardiff_City ??? ??? DF
-Camarasa Cardiff_City 28/05/1994 183  MF
-Matthew_Connolly Cardiff_City 24/09/1987 186  DF
-Cameron_Coxe Cardiff_City 18/12/1998 181  DF
-Greg_Cunningham Cardiff_City 31/01/1991 183  DF
-LoÃ¯c_Damour Cardiff_City 08/01/1991 180  MF
-Bruno_Ecuele Cardiff_City 16/07/1988 186  DF
-Neil_Etheridge Cardiff_City 07/02/1990 188  GK
-Frederic_Gounongbe Cardiff_City 01/05/1988 191  FW
-Aron_Gunnarsson Cardiff_City 22/04/1989 177  MF
-Kadeem_Harris Cardiff_City 08/06/1993 175  MF
-Mark_Harris Cardiff_City 29/12/1998 ??? MF
-Rhys_Healey Cardiff_City 12/06/1994 173  FW
-Junior_Hoilett Cardiff_City 05/06/1990 173  MF
-Gary_Madine Cardiff_City 24/08/1990 175  FW
-Ibrahim_Meite Cardiff_City 29/07/1996 188  FW
-Nathaniel_Mendez-Laing Cardiff_City 15/04/1992 178  MF
-Sean_Morrison Cardiff_City 08/01/1991 194  DF
 Kenneth_Zohore Cardiff_City 31/01/1994 190  FW
 Ethan_Ampadu Chelsea_FC 14/09/2000 182  DF
 Azpilicueta Chelsea_FC 28/08/1989 178  DF

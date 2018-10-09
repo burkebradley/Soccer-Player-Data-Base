@@ -14,12 +14,12 @@ public class SoccerPlayerDataBase
 		private static Scanner userInputTwo;
 		private static String playerSearched;
 		private static int beginSearch;
+		private static String name;
+		private static String team;
+		private static String birthYear;
+		private static String height;
+		private static String position;
 
-		public static void main(String[] args) throws IOException
-		{
-			soccerPlayers();
-			playerSearch();
-		}
 		
 		public static void soccerPlayers() throws IOException
 		{
@@ -27,7 +27,12 @@ public class SoccerPlayerDataBase
 			playerList = new Scanner(new File("BPLPlayers.txt"));
 			while (playerList.hasNext())
 				{
-					database.add(new Player(playerList.next(),playerList.next(),playerList.next(),playerList.next(),playerList.next()));	
+					name = playerList.next();
+					team = playerList.next();
+					birthYear = playerList.next();
+					height = playerList.next();
+					position = playerList.next();
+					database.add(new Player(name,team,birthYear,height,position));	
 				}
 			for (int i = 0; i <database.size(); i++)
 				{
@@ -51,7 +56,8 @@ public class SoccerPlayerDataBase
 			beginSearch = userInputTwo.nextInt();			
 			if (beginSearch == 1)
 				{
-					playerSearch();
+					System.out.println("works");
+//					playerSearch();
 				}
 		}
 	}
