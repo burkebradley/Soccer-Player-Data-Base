@@ -9,14 +9,14 @@ public class SoccerPlayerDataBase
 // User will be able to search up player by name 
 // Will output all the players fifa stats and their nationality and professional game
 		
-		private static Scanner playerList;
-		private static Scanner userInputOne;
-		private static Scanner userInputTwo;
-		private static String playerSearched;
-		private static int beginSearch;
-		private static String name;
-		private static String team;
-		private static String birthYear;
+		 static Scanner playerList;
+		 static Scanner userInputOne;
+		 static Scanner userInputTwo;
+		 static String playerSearched;
+		 static int beginSearch;
+		 static String name;
+		 static String team;
+		 static String birthYear;
 		private static String height;
 		private static String position;
 
@@ -53,6 +53,7 @@ public class SoccerPlayerDataBase
 			System.out.println("Welcome!");
 			System.out.println("This is a database of all the players currently on a Premier League team roster.");
 			System.out.println("Enter '1' to begin your search");
+			userInputTwo = new Scanner(System.in);
 			beginSearch = userInputTwo.nextInt();			
 			if (beginSearch == 1)
 				{
