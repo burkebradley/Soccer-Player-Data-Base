@@ -4,27 +4,27 @@ public class Player
 		private String name;
 		private String team;
 		private String birthYear;
-		private String height;
+//		private String height;
 		private String position;
 		
 		
-		public Player(String n, String t, String b, String h, String pOS)
+		public Player(String n, String t, String b, String pOS)
 		{
 			name = n;
 			team = t;
 			birthYear = b;
-			height = h;
+//			height = h;
 			position = pOS;
 			
 		}
-		public String getHeight()
-			{
-				return height;
-			}
-		public void setHeight(String height)
-			{
-				this.height = height;
-			}
+//		public String getHeight()
+//			{
+//				return height;
+//			}
+//		public void setHeight(String height)
+//			{
+//				this.height = height;
+//			}
 	
 		public String getName()
 			{

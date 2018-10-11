@@ -12,8 +12,7 @@ public class SoccerPlayerDataBase
 		 static Scanner playerList;
 		 static Scanner userInputOne;
 		 static Scanner userInputTwo;
-		 static String playerSearched;
-		 static int beginSearch;
+		 static String playerSearched; 
 		 static String name;
 		 static String team;
 		 static String birthYear;
@@ -21,7 +20,10 @@ public class SoccerPlayerDataBase
 		 static String position;
 		 static String playerFound;
 		 static String player;
+		 static String 
+		 static int beginSearch;
 		 static boolean playerMatches;
+		 static boolean continueSearch;
 		 static ArrayList<Player>database = new ArrayList<Player>();
 
 		
@@ -34,9 +36,9 @@ public class SoccerPlayerDataBase
 					name = playerList.next();
 					team = playerList.next();
 					birthYear = playerList.next();
-					height = playerList.next();
+//					height = playerList.next();
 					position = playerList.next();
-					database.add(new Player(name,team,birthYear,height,position));	
+					database.add(new Player(name,team,birthYear,position));	
 				}
 //			for (int i = 0; i <database.size(); i++)
 //				{
@@ -50,7 +52,7 @@ public class SoccerPlayerDataBase
 		
 		public static void playerSearch() throws IOException
 		{
-			System.out.println("Enter in a player name with a '_' in all the spaces.");
+			System.out.println("Enter in a players name with a '_' in all the spaces.");
 			userInputOne = new Scanner(System.in);
 			playerSearched = userInputOne.nextLine();
 
@@ -62,8 +64,6 @@ public class SoccerPlayerDataBase
 									System.out.println(database.get(i).getName() + " " + database.get(i).getTeam() + " "+ database.get(i).getBirthYear() +" "+ database.get(i).getPosition());
 								}
 						}
-					
-			
 		}
 		
 		public static void promptUser() throws IOException
@@ -78,5 +78,12 @@ public class SoccerPlayerDataBase
 					
 					playerSearch();
 				}
+		}
+		
+		public static void contiueSearch() throws IOException
+		{
+			System.out.println("Would you like to search for another player");
+			userInputOne = new Scanner(System.in);
+			if ()
 		}
 	}

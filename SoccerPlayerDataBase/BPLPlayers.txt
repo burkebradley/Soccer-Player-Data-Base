@@ -1,421 +1,421 @@
 
-Nathan_Ake AFC_Bournemouth 18/02/1995 180 DF
-Asmir_Begoviat AFC_Bournemouth 20/06/1987 199 GK
-Artur_Boruc AFC_Bournemouth 20/02/1980 193 GK
-David_Brooks AFC_Bournemouth 08/07/1997 173  MF
-Lewis_Cook AFC_Bournemouth 03/02/1997 175  MF
-Steve_Cook AFC_Bournemouth 19/04/1991 185  DF
-Charlie_Daniels AFC_Bournemouth 07/09/1986 178  DF
-Jermain_Defoe AFC_Bournemouth 07/10/1982 171  FW
-Diego_Rico AFC_Bournemouth 23/02/1993 183  DF
-Mihai_Dobre AFC_Bournemouth 30/08/1998 178  MF
-Simon_Francis AFC_Bournemouth   16/02/1985 191  DF
-Ryan_Fraser AFC_Bournemouth   01/09/1994 163  MF
-Dan_Gosling   AFC_Bournemouth 02/02/1990 183  MF
-Emerson_Hyndman   AFC_Bournemouth 07/04/1996 170  MF
-Jordon_Ibe AFC_Bournemouth   08/12/1995 176  FW
-Joshua_King AFC_Bournemouth   15/01/1992 181  FW
-Jefferson_Lerma AFC_Bournemouth   25/10/1994 179  MF
-Tyrone_Mings AFC_Bournemouth   13/03/1993 195  DF
-Lys_Mousset AFC_Bournemouth   08/02/1996 184  FW
-Mikael_Ndjoli AFC_Bournemouth   16/12/1998 183  FW
-Nnamdi_Ofoborh AFC_Bournemouth   07/11/1999 183  MF
-Marc_Pugh AFC_Bournemouth   02/04/1987 180  MF
-Aaron_Ramsdale AFC_Bournemouth   14/05/1998 188  GK
-Jack_Simpson AFC_Bournemouth   08/01/1997 178  DF
-Adam_Smith AFC_Bournemouth   29/04/1991 174  DF
-Junior_Stanislas AFC_Bournemouth   26/11/1989 183  MF
-Andrew_Surman AFC_Bournemouth   20/08/1986 178  MF
-Mark_Travers AFC_Bournemouth   18/05/1999 191  GK
-Callum_Wilson AFC_Bournemouth   27/02/1992 180  FW
-Pierre-Emerick_Aubameyang Arsenal_FC   18/06/1989 187  FW
-Petr_Cech Arsenal_FC   20/05/1982 196  GK
-Mohamed_El_Neny Arsenal_FC   11/07/1992 180  MF
-Matteo_Guendouzi Arsenal_FC  14/04/1999 185  MF
-Hecctor_Bellerin Arsenal_FC   19/03/1995 178  DF
-Rob_Holding Arsenal_FC   20/09/1995 189  DF
-Alex_Iwobi Arsenal_FC  03/05/1996 183  FW
-Carl_Jenkinson Arsenal_FC   08/02/1992 185  DF
-Sead_Kolasinac Arsenal_FC   20/06/1993 183  DF
-Laurent_Koscielny Arsenal_FC   10/09/1985 186  DF
-Alexandre_Lacazette Arsenal_FC   28/05/1991 175  FW
-Bernd_Leno Arsenal_FC   04/03/1992 190  GK
-Stephan_Lichtsteiner   Arsenal_FC 16/01/1984 182  DF
-Ainsley_Maitland-Niles   Arsenal_FC 29/08/1997 177  DF
-Emiliano_Martinez Arsenal_FC 02/09/1992 195  GK
-Konstantinos_Mavropanos Arsenal_FC Arsenal FC 11/12/1997 194  DF
-Henrikh_Mkhitaryal Arsenal_FC 21/01/1989 177  MF
-Shkodran_Mustafi Arsenal_FC 17/04/1992 184  DF
-Nacho_Monreal Arsenal_FC  26/02/1986 179  DF
-Edward_Nketiah Arsenal_FC  30/05/1999 175  FW
-Mesut_Ozil Arsenal_FC  15/10/1988 180  MF
-Sokratis_Papastathopoulos Arsenal_FC  09/06/1988 186  DF
-Aaron_Ramsey Arsenal_FC  26/12/1990 182  MF
-Emile_Smith-Rowe Arsenal_FC  28/07/2000 182  MF
-Lucas_Torreira Arsenal_FC  11/02/1996 168  MF
-Danny_Welbeck Arsenal_FC  26/11/1990 185  FW
-Granit_Xhaka Arsenal_FC C 27/09/1992 185  MF
-Soufyan_Ahannach Brighton_&_Hove_Albion    09/09/1995 173  MF
-Florin_Andone  Brighton_&_Hove_Albion 11/04/1993 180  FW
-Leon_Balogun Brighton_&_Hove_Albion 28/06/1988 190  DF
-Ben_Barclay Brighton_&_Hove_Albion 07/10/1996 181  DF
-Bernardo  Brighton_&_Hove_Albion 14/05/1995 186  DF
-Yves_Bissouma  Brighton_&_Hove_Albion 30/08/1996 182  MF
-Gaetan_Bong  Brighton_&_Hove_Albion 25/04/1988 183  DF
-Bruno  Brighton_&_Hove_Albion 01/10/1980 181  DF
-Dan_Burn Brighton_&_Hove_Albion 09/05/1992 198  DF
-David_Button  Brighton_&_Hove_Albion 27/02/1989 191  GK
-Will_Collar  Brighton_&_Hove_Albion 03/02/1997 ??? MF
-Aaron_Connolly  Brighton_&_Hove_Albion 28/01/2000 ??? FW
-Shane_Duffy  Brighton_&_Hove_Albion 01/01/1992 193  DF
-Lewis_Dunk  Brighton_&_Hove_Albion 21/11/1991 192  DF
-Pascal_Grob Brighton_&_Hove_Albion 15/06/1991 181  MF
-Viktor_Gyokeres  Brighton_&_Hove_Albion 04/07/1998 187  FW
-Jose_Izquierdo Brighton_&_Hove_Albion 07/07/1992 171  FW
-Alireza_Jahanbakhsh  Brighton_&_Hove_Albion 08/10/1993 180  FW
-Biram_Kayal  Brighton_&_Hove_Albion 02/05/1988 178  MF
-Anthony_Knockaert Brighton_&_Hove_Albion 20/11/1991 172  MF
-Jurgen_Locadia   Brighton_&_Hove_Albion 07/11/1993 185  FW
-Solomon_March  Brighton_&_Hove_Albion 26/07/1994 185  MF
-Martn_Montoya  Brighton_&_Hove_Albion 14/04/1991 175  DF
-Glenn_Murray Brighton_&_Hove_Albion 25/09/1983 183  FW
-Oliver_Norwood  Brighton_&_Hove_Albion 12/04/1991 180  MF
-Davy_Propper Brighton_&_Hove_Albion 02/09/1991 185  MF
-Mathew_Ryan Brighton_&_Hove_Albion 08/04/1992 184  GK
-Ezequiel_Schelotto Brighton_&_Hove_Albion 23/05/1989 187  DF
-Jason_Steele Brighton_&_Hove_Albion 18/08/1990 188  GK
-Dale_Stephens  Brighton_&_Hove_Albion 12/12/1989 185  MF
-Markus_Suttner  Brighton_&_Hove_Albion 16/04/1987 179  DF
-Phil_Bardsley Burnley_FC 28/06/1985 180  DF
-Ashley_Barnes  Burnley_FC 30/10/1989 186  FW
-Robbie_Brady  Burnley_FC 14/01/1992 178  MF
-Jack_Cork Burnley_FC 25/06/1989 183  MF
-Steven_Defour Burnley_FC 15/04/1988 173  MF
-Ben_Gibson  Burnley_FC 15/01/1993 185 DF
-Johann_Guemundsson Burnley_FC 27/10/1990 186  MF
-Joe_Hart  Burnley_FC 19/04/1987 196  GK
-Tom_Heaton Burnley_FC 15/04/1986 186  GK
-Jeff_Hendrick  Burnley_FC 31/01/1992 185  MF
-Adam_Legzdins Burnley_FC 28/11/1986 183  GK
-Aaron_Lennon Burnley_FC 16/04/1987 165  MF
-Anders_Lindegaard Burnley_FC 13/04/1984 193 GK
-Kevin_Long Burnley_FC 18/08/1990 188  DF
-Matthew_Lowton Burnley_FC 09/06/1989 180 DF
-Dwight_McNeil Burnley_FC 22/11/1999 193  FW
-Ben_Mee Burnley_FC 21/09/1989 180  DF
-Nick_Pope Burnley_FC 19/04/1992 191  GK
-James_Tarkowski Burnley_FC 19/11/1992 185  DF
-Charlie_Taylor Burnley_FC 18/09/1993 175  DF
-Sam_Vokes Burnley_FC 21/10/1989 186  FW
-Matij_Vydra Burnley_FC 01/05/1992 180 FW
-Jon_Walters Burnley_FC 20/09/1983 183  FW
-Stephen_Ward Burnley_FC 20/08/1985 184  DF
-Ashley_Westwood Burnley_FC 01/04/1990 175  MF
-Chris_Wood Burnley_FC 07/12/1991 191  FW
-Harry_Arter Cardiff_City 28/12/1989 178  MF
-Souleymane_Bamba Cardiff_City 13/01/1985 190  DF
-Joe_Bennett Cardiff_City 28/03/1990 177  DF
-Ciaron_Brown Cardiff_City ??? ??? DF
-Camarasa Cardiff_City 28/05/1994 183  MF
-Matthew_Connolly Cardiff_City 24/09/1987 186  DF
-Cameron_Coxe Cardiff_City 18/12/1998 181  DF
-Greg_Cunningham Cardiff_City 31/01/1991 183  DF
-Loic_Damour Cardiff_City 08/01/1991 180  MF
-Bruno_Ecuele Cardiff_City 16/07/1988 186 DF
-Neil_Etheridge Cardiff_City 07/02/1990 188  GK
-Frederic_Gounongbe Cardiff_City 01/05/1988 191  FW
-Aron_Gunnarsson Cardiff_City 22/04/1989 177  MF
-Kadeem_Harris Cardiff_City 08/06/1993 175  MF
-Mark_Harris Cardiff_City 29/12/1998 ??? MF
-Rhys_Healey Cardiff_City 12/06/1994 173  FW
-Junior_Hoilett Cardiff_City 05/06/1990 173  MF
-Gary_Madine Cardiff_City 24/08/1990 175  FW
-Ibrahim_Meite Cardiff_City 29/07/1996 188  FW
-Nathaniel_Mendez-Laing Cardiff_City 15/04/1992 178  MF
-Sean_Morrison Cardiff_City 08/01/1991 194  DF
-Brian_Murphy Cardiff_City 07/05/1983 185  GK
-Josh_Murphy Cardiff_City 24/02/1995 173  FW
-Stuart_O'Keefe Cardiff_City 04/03/1991 173  MF
-Callum_Paterson Cardiff_City 13/10/1994 183  MF
-Lee_Peltier Cardiff_City 11/12/1986 178  DF
-Anthony_Pilkington Cardiff_City 06/06/1988 183  FW
-Joe_Ralls Cardiff_City 13/10/1993 183  MF
-Bobby_Reid Cardiff_City 02/02/1993 170  FW
-Jazz_Richards Cardiff_City 12/04/1991 185  DF
-Alex_Smithies Cardiff_City 05/03/1990 189  GK
-Lee_Tomlin Cardiff_City 12/01/1989 180  FW
-Danny_Ward Cardiff_City 11/12/1991 180  FW
-Kenneth_Zohore Cardiff_City 31/01/1994 190  FW
-Ethan_Ampadu Chelsea_FC 14/09/2000 182  DF
-Azpilicueta Chelsea_FC 28/08/1989 178  DF
-Ross_Barkley Chelsea_FC 05/12/1993 189 MF
-Joel_Ward Crystal_Palace 29/10/1989 188  DF
-Connor_Wickham Crystal_Palace 31/03/1993 193  FW
-Jonathan_Williams Crystal_Palace 09/10/1993 168  MF
-Sam Woods_Crystal_Palace 11/09/1998 ??? DF
-Wilfried_Zaha Crystal_Palace 10/11/1992 180  FW
-Andre_Gomes Everton_FC 30/07/1993 188  MF
-Leighton_Baines Everton_FC 11/12/1984 170  DF
-Beni_Baningime Everton_FC 09/09/1998 178  MF
-Bernard Everton_FC 08/09/1992 164  MF
-Tyias_Browning Everton_FC 27/05/1994 181  DF
-Dominic_Calvert-Lewin Everton_FC 16/03/1997 187  FW
-Seamus_Coleman Everton_FC 11/08/1988 177  DF
-Tom_Davies Everton_FC 30/06/1998 180  MF
-Lucas_Digne  Everton_FC 20/07/1993 178  DF
-Kieran_Dowell   Everton_FC 10/10/1997 183  MF
-Brendan_Galloway   Everton_FC 17/03/1996 188  DF
-Idrissa_Gueye   Everton_FC 26/09/1989 174  MF
-Mason_Holgate   Everton_FC 22/10/1996 181  DF
-Phil_Jagielka   Everton_FC 17/08/1982 180  DF
-Joao_Virginia   Everton_FC 10/10/1999 191  GK
-Michael_Keane   Everton_FC 11/01/1993 188 DF
-Jonjoe_Kenny   Everton_FC 15/03/1997 176  DF
-Ademola_Lookman  Everton_FC 20/10/1998 174  FW
-James_McCarthy   Everton_FC 12/11/1990 180  MF
-Yerry_Mina   Everton_FC 23/09/1994 195  DF
-Oumar_Niasse   Everton_FC 18/04/1990 188  FW
-Jordan_Pickford   Everton_FC 07/03/1994 185  GK
-Richarlison   Everton_FC 10/05/1997 179  FW
-Morgan_Schneiderlin   Everton_FC 08/11/1989 181  MF
-Gylfi_Sigurosson  Everton_FC 08/09/1989 186  MF
-Maarten_Stekelenburg   Everton_FC 22/09/1982 196  GK
-Cenk_Tosun   Everton_FC 07/06/1991 183  FW
-Theo_Walcott   Everton_FC 16/03/1989 170  FW
-Kurt_Zouma   Everton_FC 27/10/1994 190  DF
-Floyd_Ayite   Fulham_FC 15/12/1988 174  FW
-Marcus_Bettinelli  Fulham_FC 24/05/1992 192  GK
-Joe_Bryan  Fulham_FC 17/09/1993 170  DF
-Tom_Cairney  Fulham_FC 20/01/1991 182  MF
-Calum_Chambers   Fulham_FC 20/01/1995 182  DF
-Cyrus_Christie  Fulham_FC 30/09/1992 188  DF
-Ibrahima_Cisse Fulham_FC 28/02/1994 184  MF
-Luca_de_la_Torre   Fulham_FC 23/05/1998 177  MF
-Fabricio Fulham_FC 31/12/1987 185  GK
-Timothy_Fosu-Mensah   Fulham_FC 02/01/1998 190  DF
-Stefan_Johansen   Fulham_FC 08/01/1991 182  MF
-Aboubakar_Kamara  Fulham_FC 07/03/1995 178  FW
-Neeskens_Kebano  Fulham_FC 10/03/1992 172 MF
-Maxime_Le_Marchand  Fulham_FC 11/10/1989 185  DF
-Alfie_Mawson  Fulham_FC 19/01/1994 188  DF
-Kevin_McDonald  Fulham_FC 04/11/1988 188  MF
-Aleksandar_Mitrovic  Fulham_FC 16/09/1994 189  FW
-Matthew_O'Riley  Fulham_FC 21/11/2000 187  MF
-Denis_Odoi  Fulham_FC 27/05/1988 178  DF
-Tim_Ream  Fulham_FC 05/10/1987 185  DF
-Andre_Schurrle  Fulham_FC 06/11/1990 184  FW
-Sergio_Rico  Fulham_FC 01/09/1993 194  GK
-Jean_Michael_Seri Fulham_FC 19/07/1991 168  MF
-Ryan_Sessegnon   Fulham_FC 18/05/2000 178  FW
-Steven_Sessegnon  Fulham_FC 18/05/2000 178  DF
-Luciano_Vietto  Fulham_FC 05/12/1993 173  FW
-Andre_Zambo  Fulham_FC 16/11/1995 184  MF
-Juninho_Bacuna  Huddersfield_Town 07/08/1997 178  MF
-Philip_Billing   Huddersfield_Town 11/06/1996 193  MF
-Laurent_Depoitre Huddersfield_Town 07/12/1988 191  FW
-Adama_Diakhaby   Huddersfield_Town 05/07/1996 184  FW
-Erik_Durm  Huddersfield_Town 12/05/1992 183  DF
-Jon_Gorenc_Stankovic   Huddersfield_Town 14/01/1996 190  DF
-Florent_Hadergjonaj  Huddersfield_Town 31/07/1994 182  DF
-Ben_Hamer  Huddersfield_Town 20/11/1987 193  GK
-Jonathan_Hogg  Huddersfield_Town 06/12/1988 177  MF
-Mathias_Jorgensen  Huddersfield_Town 23/04/1990 191  DF
-Elias_Kachunga  Huddersfield_Town 22/04/1992 176  FW
-Terence_Kongolo Huddersfield_Town 14/02/1994 188  DF
-Jonas_Lossl  Huddersfield_Town 01/02/1989 195  GK
-Chris_Lowe  Huddersfield_Town 16/04/1989 175  DF
-Isaac_Mbenza  Huddersfield_Town 08/03/1996 187  FW
-Aaron_Mooy  Huddersfield_Town 15/09/1989 179  MF
-Steve_Mounie  Huddersfield_Town 29/09/1994 190  FW
-Alex_Pritchard   Huddersfield_Town 03/05/1993 168  MF
-Collin_Quaner   Huddersfield_Town 18/06/1991 191  FW
-Abdelhamid_Sabiri   Huddersfield_Town 28/11/1996 186  MF
-Christopher_Schindler   Huddersfield_Town 29/04/1990 188  DF
-Ryan_Schofield  Huddersfield_Town 11/12/1999 190  GK
-Tom_Smith  Huddersfield_Town 14/04/1992 186  DF
-Ramadan_Sobhi   Huddersfield_Town 23/01/1997 183  MF
-Rajiv_van_La_Parra   Huddersfield_Town 04/06/1991 181  MF
-Daniel_Williams   Huddersfield_Town 08/03/1989 182  MF
-Adrien_Silva   Leicester_City 15/03/1989 175  MF
-Marc_Albrighton  Leicester_City 18/11/1989 175  MF
-Daniel_Amartey   Leicester_City 21/12/1994 183  DF
-Yohan_Benalouane  Leicester_City 28/03/1987 185  DF
-Ben_Chilwell   Leicester_City 21/12/1996 187  DF
-Hamza_Choudhury   Leicester_City 01/10/1997 178  MF
-Fousseni Diabate  Leicester_City  18/10/1995 175  FW
-Callum_Elder   Leicester_City 27/01/1995 180  DF
-Jonny_Evans   Leicester_City 03/01/1988 189 DF
-Christian_Fuchs   Leicester_City 07/04/1986 186  DF
-Rachid_Ghezzal   Leicester_City 09/05/1992 182  FW
-Demarai_Gray   Leicester_City 28/06/1996 179  MF
-Iborra   Leicester_City 16/01/1988 190  MF
-Kelechi_Iheanacho  Leicester_City 03/10/1996 185  FW
-Eldin_Jakupovic   Leicester_City 02/10/1984 191  GK
-Matty_James  Leicester_City 22/07/1991 178  MF
-Andy_King   Leicester_City 29/10/1988 183  MF
-James_Maddison   Leicester_City 23/11/1996 179  MF
-Harry_Maguire   Leicester_City 05/03/1993 194  DF
-Nampalys_Mendy   Leicester_City 23/06/1992 167  MF
-Wes_Morgan   Leicester_City 21/01/1984 186  DF
-Wilfred_Ndidi  Leicester_City 16/12/1996 187  MF
-Shinji_Okazaki   Leicester_City 16/04/1986 173  FW
-Ricardo_Pereira   Leicester_City 06/10/1993 175  MF
-Kasper_Schmeichel   Leicester_City 05/11/1986 185  GK
-Danny_Simpson   Leicester_City 04/01/1987 173 DF
-Caglar_Soyuncu   Leicester_City 23/05/1996 187  DF
-Jamie_Vardy   Leicester_City 11/01/1987 178  FW
-Danny_Ward   Leicester_City 22/06/1993 191  GK
-Alberto_Moreno  FC Liverpool_FC 05/07/1992 172  DF
-Trent_Alexander-Arnold   Liverpool_FC 07/10/1998 175  DF
-Alisson Liverpool_FC   02/10/1992 191  GK
-Nathaniel_Clyne   Liverpool_FC 05/04/1991 175  DF
-Fabinho   Liverpool_FC 23/10/1993 188  MF
-Joe_Gomez   Liverpool_FC 23/05/1997 188  DF
-Kamil_Grabara  Liverpool_FC 08/01/1999 194  GK
-Jordan_Henderson   Liverpool_FC 17/06/1990 185  MF
-Curtis_Jones   Liverpool_FC 30/01/2001 185  MF
-Naby_Keita   Liverpool_FC 10/02/1995 172  MF
-Adam_Lallana   Liverpool_FC 10/05/1988 173  MF
-Dejan_Lovren   Liverpool_FC 05/07/1989 188  DF
-Sadio_Mane   Liverpool_FC 10/04/1992 175  FW
-Lazar_Markovic   Liverpool_FC 02/03/1994 175  MF
-Joel_Matip   Liverpool_FC 08/08/1991 193  DF
-Simon_Mignolet  Liverpool_FC 06/03/1988 193  GK
-James_Milner  Liverpool_FC 04/01/1986 176  MF
-Divock_Origi   Liverpool_FC 18/04/1995 185  FW
-Alex_Oxlade-Chamberlain   Liverpool_FC 15/08/1993 175  MF
-Connor_Randall   Liverpool_FC 21/10/1995 180  DF
-Roberto_Firmino   Liverpool_FC 02/10/1991 181  FW
-Andrew_Robertson   Liverpool_FC 11/03/1994 178  DF
-Mohamed_Salah   Liverpool_FC 15/06/1992 175  FW
-Xherdan_Shaqiri   Liverpool_FC 10/10/1991 169  FW
-Dominic_Solanke   Liverpool_FC 14/09/1997 187  FW
-Daniel_Sturridge   Liverpool_FC 01/09/1989 180  FW
-Virgil_van_Dijk   Liverpool_FC 08/07/1991 193 DF
-Georginio_Wijnaldum   Liverpool_FC 11/11/1990 173  MF
-Adrian_Bernabe   Manchester_City 26/05/2001 ??? MF
-Kun_Aguero   Manchester_City 02/06/1988 172  FW
-Bernardo_Silva   Manchester_City 10/08/1994 173  FW
-Brahim_Di­az   Manchester_City 03/08/1999 170  MF
-Claudio_Bravo   Manchester_City 13/04/1983 185  GK
-Danilo   Manchester_City 15/07/1991 184  DF
-David_Silva   Manchester_City 08/01/1986 170  MF
-Kevin_De_Bruyne  Manchester_City 28/06/1991 181  MF
-Fabian_Delph  Manchester_City 21/11/1989 174  DF
-Ederson   Manchester_City 17/08/1993 188  GK
-Fernandinho  Manchester_City 04/05/1985 179  MF
-Phil_Foden   Manchester_City 28/05/2000 171 MF
-Gabriel_Jesus  Manchester_City 03/04/1997 175  FW
-Claudio_Gomes  Manchester_City 23/07/2000 180 MF
-Ilkay_Gundogan  Manchester_City 24/10/1990 180  MF
-Yangel_Herrera  Manchester_City 07/01/1998 183  MF
-Vincent_Kompany  Manchester_City 10/04/1986 193  DF
-Aymeric_Laporte  Manchester_City 27/05/1994 191 DF
-Riyad_Mahrez  Manchester_City 21/02/1991 179  MF
-Eliaquim_Mangala  Manchester_City 13/02/1991 187  DF
-Benjamin_Mendy  Manchester_City 17/07/1994 185  DF
-Marlos_Moreno  Manchester_City 20/09/1996 171 FW
-Aro_Muric  Manchester_City 07/11/1998 198  GK
-Nicolas_Otamendi  Manchester_City 12/02/1988 184  DF
-Philippe_Sandler  Manchester_City 10/02/1997 188  DF
-Leroy_Sane   Manchester_City 11/01/1996 183  FW
-Raheem_Sterling   Manchester_City 08/12/1994 170  FW
-John_Stones  Manchester_City 28/05/1994 188  DF
-Kyle_Walker  Manchester_City 28/05/1990 178  DF
-Oleksandr_Zinchenko   Manchester_City 15/12/1996 175  MF
-Ander_Herrera   Manchester_United 14/08/1989 182  MF
-Andreas_Pereira   Manchester_United 01/01/1996 178  MF
-Eric_Bailly   Manchester_United 12/04/1994 187  DF
-Matteo_Darmian   Manchester_United 02/12/1989 182  DF
-De_Gea   Manchester_United 07/11/1990 189  GK
-Diogo_Dalot   Manchester_United 18/03/1999 184  DF
-Marouane_Fellaini   Manchester_United 22/11/1987 194  MF
-Fred  Manchester_United 05/03/1993 169  MF
-Lee_Grant  Manchester_United 27/01/1983 193  GK
-Phil_Jones  Manchester_United 21/02/1992 180  DF
-Victor_Lindelof  Manchester_United 17/07/1994 187  DF
-Jesse_Lingard  Manchester_United 15/12/1992 174  MF
-Romelu_Lukaku  Manchester_United 13/05/1993 192 FW
-Anthony_Martial  Manchester_United 05/12/1995 181  FW
-Mata   Manchester_United 28/04/1988 170  MF
-Nemanja_Matic   Manchester_United 01/08/1988 194  MF
-Scott_McTominay   Manchester_United 08/12/1996 193  MF
-Paul_Pogba   Manchester_United 15/03/1993 191  MF
-Marcus_Rashford   Manchester_United 31/10/1997 185  FW
-Marcos_Rojo   Manchester_United 20/03/1990 187  DF
-Sergio_Romero   Manchester_United 22/02/1987 191  GK
-Alexis_Sanchez   Manchester_United 19/12/1988 169  FW
-Luke_Shaw   Manchester_United 12/07/1995 185  DF
-Chris_Smalling   Manchester_Unitedd 22/11/1989 193  DF
-Antonio_Valencia   Manchester_United 04/08/1985 179  DF
-Ashley_Young   Manchester_United 09/07/1985 176  DF
-Stuart_Armstrong   Southampton_FC 30/03/1992 183  MF
-Charlie_Austin    Southampton_FC 05/07/1989 188  FW
-Jan_Bednarek    Southampton_FC 12/04/1996 189  DF
-Ryan_Bertrand    Southampton_FC 05/08/1989 179  DF
-Cedric_Soares    Southampton_FC 31/08/1991 172  DF
-Steven_Davis    Southampton_FC 01/01/1985 173  MF
-Mohamed_Elyounoussi   Southampton_FC 04/08/1994 178 FW
-Fraser _Forster   Southampton_FC 17/03/1988 201  GK
-Manolo _Gabbiadini  Southampton_FC 26/11/1991 186  FW
-Sam_Gallagher   Southampton_FC 15/09/1995 194  FW
-Angus_Gunn   Southampton_FC 22/01/1996 196  GK
-Wesley_Hoedt   Southampton_FC 06/03/1994 188  DF
-Pierre-Emile_Hojbjerg   Southampton_FC 05/08/1995 186  MF
-Danny_Ings    Southampton_FC 23/07/1992 178  FW
-Mario_Lemina    Southampton_FC 01/09/1993 184  MF
-Harry_Lewis   Southampton_FC 20/12/1997 191  GK
-Shane_Long    Southampton_FC 22/01/1987 180  FW
-Alex_McCarthy    Southampton_FC 03/12/1989 193  GK
-Oriol_Romeu    Southampton_FC 24/09/1991 182  MF
-Nathan_Redmond   Southampton_FC 06/03/1994 173  MF
-Jack_Stephens    Southampton_FC 27/01/1994 185  DF
-Matt_Targett   Southampton_FC 18/09/1995 183  DF
-Rolando_Aarons   Newcastle_United 16/11/1995 178  MF
-Christian_Atsu   Newcastle_United 10/01/1992 172  FW
-Ayoze_Perez  Newcastle_United 23/07/1993 179  MF
-Ciaran_Clark  Newcastle_United 26/09/1989 188  DF
-Karl_Darlow  Newcastle_United 08/10/1990 190  GK
-Momo_Diame  Newcastle_United 14/06/1987 181  MF
-Martin_Dubravka  Newcastle_United 15/01/1989 191  GK
-Paul_Dummett  Newcastle_United 26/09/1991 183  DF
-Rob_Elliot  Newcastle_United 30/04/1986 190  GK
-Federico_Fernandez  Newcastle_United 21/02/1989 189  DF
-Isaac_Hayden  Newcastle_United 22/03/1995 187  MF
-Joselu  Newcastle_United 27/03/1990 191  FW
-Kenedy  Newcastle_United 08/02/1996 182  MF
-Sung-yueng_Ki  Newcastle_United 24/01/1989 187  MF
-Jamaal_Lascelles  Newcastle_United 11/11/1993 189  DF
-Achraf_Lazaar   Newcastle_United 22/01/1992 184  DF
-Florian_Lejeune   Newcastle_United 20/05/1991 190  DF
-Sean_Longstaff  Newcastle_United 30/10/1997 181  MF
-Manquillo   Newcastle_United 05/05/1994 178  DF
-Jacob_Murphy   Newcastle_United 24/02/1995 176  FW
-Yoshinori_Muto   Newcastle_United 15/07/1992 179  FW
-Matt_Ritchie   Newcastle_United 10/09/1989 173  MF
-Salomon_Rondon   Newcastle_United 16/09/1989 190  FW
-Fabian_Schar Newcastle_United 20/12/1991 188  DF
-Jonjo_Shelvey  Newcastle_United 27/02/1992 185  MF
-Jamie_Sterry  Newcastle_United 21/11/1995 180  DF
-Freddie_Woodman Newcastle_United 04/03/1997 189  GK
-DeAndre_Yedlin  Newcastle_United 09/07/1993 172  DF
-Ryan_Giles   Wolverhampton_Wanderers 26/01/2000 ??? MF
-Kortney_Hause   Wolverhampton_Wanderers 16/07/1995 189  DF
-Helder_Costa   Wolverhampton_Wanderers 12/01/1994 178  FW
-Dominic_Iorfa  Wolverhampton_Wanderers 24/06/1995 193  DF
-Ivan Cavaleiro   Wolverhampton_Wanderers 18/10/1993 175  FW
-Raul_Jimenez   Wolverhampton_Wanderers 05/05/1991 188  FW
-Joao_Moutinho  Wolverhampton_Wanderers 08/09/1986 170  MF
-Jonny  Wolverhampton_Wanderers 03/03/1994 170  DF
-Leo_Bonatini  Wolverhampton_Wanderers 28/03/1994 185  FW
-Joe_Mason  Wolverhampton_Wanderers 13/05/1991 178 FW
-Will_Norris  Wolverhampton_Wanderers 12/08/1993 195  GK
-Pote  Wolverhampton_Wanderers 28/06/1998 173  MF
-Connor_Ronan   Wolverhampton_Wanderers 06/03/1998 170  MF
-Ruben_Neves  Wolverhampton_Wanderers 13/03/1997 180  MF
-Ruben_Vinagre  Wolverhampton_Wanderers 09/04/1999 174  DF
-John_Ruddy   Wolverhampton_Wanderers 24/10/1986 193  GK
-Rui_Patri­cio   Wolverhampton_Wanderers 15/02/1988 188  GK
-Romain_Saiss   Wolverhampton_Wanderers 26/03/1990 190  MF
-Adama_Traore   Wolverhampton_Wanderers 25/01/1996 172 FW
-Elliot_Watt   Wolverhampton_Wanderers 11/03/2000 ??? MF
+Nathan_Ake AFC_Bournemouth 18/02/1995  DF
+Asmir_Begoviat AFC_Bournemouth 20/06/1987  GK
+Artur_Boruc AFC_Bournemouth 20/02/1980  GK
+David_Brooks AFC_Bournemouth 08/07/1997   MF
+Lewis_Cook AFC_Bournemouth 03/02/1997   MF
+Steve_Cook AFC_Bournemouth 19/04/1991   DF
+Charlie_Daniels AFC_Bournemouth 07/09/1986   DF
+Jermain_Defoe AFC_Bournemouth 07/10/1982   FW
+Diego_Rico AFC_Bournemouth 23/02/1993   DF
+Mihai_Dobre AFC_Bournemouth 30/08/1998   MF
+Simon_Francis AFC_Bournemouth   16/02/1985   DF
+Ryan_Fraser AFC_Bournemouth   01/09/1994   MF
+Dan_Gosling   AFC_Bournemouth 02/02/1990   MF
+Emerson_Hyndman   AFC_Bournemouth 07/04/1996   MF
+Jordon_Ibe AFC_Bournemouth   08/12/1995   FW
+Joshua_King AFC_Bournemouth   15/01/1992   FW
+Jefferson_Lerma AFC_Bournemouth   25/10/1994   MF
+Tyrone_Mings AFC_Bournemouth   13/03/1993   DF
+Lys_Mousset AFC_Bournemouth   08/02/1996   FW
+Mikael_Ndjoli AFC_Bournemouth   16/12/1998   FW
+Nnamdi_Ofoborh AFC_Bournemouth   07/11/1999   MF
+Marc_Pugh AFC_Bournemouth   02/04/1987   MF
+Aaron_Ramsdale AFC_Bournemouth   14/05/1998   GK
+Jack_Simpson AFC_Bournemouth   08/01/1997   DF
+Adam_Smith AFC_Bournemouth   29/04/1991   DF
+Junior_Stanislas AFC_Bournemouth   26/11/1989   MF
+Andrew_Surman AFC_Bournemouth   20/08/1986   MF
+Mark_Travers AFC_Bournemouth   18/05/1999   GK
+Callum_Wilson AFC_Bournemouth   27/02/1992   FW
+Pierre-Emerick_Aubameyang Arsenal_FC   18/06/1989   FW
+Petr_Cech Arsenal_FC   20/05/1982   GK
+Mohamed_El_Neny Arsenal_FC   11/07/1992   MF
+Matteo_Guendouzi Arsenal_FC  14/04/1999   MF
+Hecctor_Bellerin Arsenal_FC   19/03/1995   DF
+Rob_Holding Arsenal_FC   20/09/1995   DF
+Alex_Iwobi Arsenal_FC  03/05/1996   FW
+Carl_Jenkinson Arsenal_FC   08/02/1992   DF
+Sead_Kolasinac Arsenal_FC   20/06/1993   DF
+Laurent_Koscielny Arsenal_FC   10/09/1985   DF
+Alexandre_Lacazette Arsenal_FC   28/05/1991   FW
+Bernd_Leno Arsenal_FC   04/03/1992   GK
+Stephan_Lichtsteiner   Arsenal_FC 16/01/1984   DF
+Ainsley_Maitland-Niles   Arsenal_FC 29/08/1997   DF
+Emiliano_Martinez Arsenal_FC 02/09/1992   GK
+Konstantinos_Mavropanos Arsenal_FC Arsenal FC 11/12/1997   DF
+Henrikh_Mkhitaryal Arsenal_FC 21/01/1989   MF
+Shkodran_Mustafi Arsenal_FC 17/04/1992   DF
+Nacho_Monreal Arsenal_FC  26/02/1986   DF
+Edward_Nketiah Arsenal_FC  30/05/1999   FW
+Mesut_Ozil Arsenal_FC  15/10/1988   MF
+Sokratis_Papastathopoulos Arsenal_FC  09/06/1988   DF
+Aaron_Ramsey Arsenal_FC  26/12/1990   MF
+Emile_Smith-Rowe Arsenal_FC  28/07/2000   MF
+Lucas_Torreira Arsenal_FC  11/02/1996   MF
+Danny_Welbeck Arsenal_FC  26/11/1990   FW
+Granit_Xhaka Arsenal_FC C 27/09/1992   MF
+Soufyan_Ahannach Brighton_&_Hove_Albion    09/09/1995   MF
+Florin_Andone  Brighton_&_Hove_Albion 11/04/1993   FW
+Leon_Balogun Brighton_&_Hove_Albion 28/06/1988   DF
+Ben_Barclay Brighton_&_Hove_Albion 07/10/1996   DF
+Bernardo  Brighton_&_Hove_Albion 14/05/1995   DF
+Yves_Bissouma  Brighton_&_Hove_Albion 30/08/1996   MF
+Gaetan_Bong  Brighton_&_Hove_Albion 25/04/1988   DF
+Bruno  Brighton_&_Hove_Albion 01/10/1980   DF
+Dan_Burn Brighton_&_Hove_Albion 09/05/1992   DF
+David_Button  Brighton_&_Hove_Albion 27/02/1989   GK
+Will_Collar  Brighton_&_Hove_Albion 03/02/1997  MF
+Aaron_Connolly  Brighton_&_Hove_Albion 28/01/2000  FW
+Shane_Duffy  Brighton_&_Hove_Albion 01/01/1992   DF
+Lewis_Dunk  Brighton_&_Hove_Albion 21/11/1991   DF
+Pascal_Grob Brighton_&_Hove_Albion 15/06/1991   MF
+Viktor_Gyokeres  Brighton_&_Hove_Albion 04/07/1998   FW
+Jose_Izquierdo Brighton_&_Hove_Albion 07/07/1992   FW
+Alireza_Jahanbakhsh  Brighton_&_Hove_Albion 08/10/1993   FW
+Biram_Kayal  Brighton_&_Hove_Albion 02/05/1988   MF
+Anthony_Knockaert Brighton_&_Hove_Albion 20/11/1991   MF
+Jurgen_Locadia   Brighton_&_Hove_Albion 07/11/1993   FW
+Solomon_March  Brighton_&_Hove_Albion 26/07/1994   MF
+Martn_Montoya  Brighton_&_Hove_Albion 14/04/1991   DF
+Glenn_Murray Brighton_&_Hove_Albion 25/09/1983   FW
+Oliver_Norwood  Brighton_&_Hove_Albion 12/04/1991   MF
+Davy_Propper Brighton_&_Hove_Albion 02/09/1991   MF
+Mathew_Ryan Brighton_&_Hove_Albion 08/04/1992   GK
+Ezequiel_Schelotto Brighton_&_Hove_Albion 23/05/1989   DF
+Jason_Steele Brighton_&_Hove_Albion 18/08/1990   GK
+Dale_Stephens  Brighton_&_Hove_Albion 12/12/1989   MF
+Markus_Suttner  Brighton_&_Hove_Albion 16/04/1987   DF
+Phil_Bardsley Burnley_FC 28/06/1985   DF
+Ashley_Barnes  Burnley_FC 30/10/1989   FW
+Robbie_Brady  Burnley_FC 14/01/1992   MF
+Jack_Cork Burnley_FC 25/06/1989   MF
+Steven_Defour Burnley_FC 15/04/1988   MF
+Ben_Gibson  Burnley_FC 15/01/1993  DF
+Johann_Guemundsson Burnley_FC 27/10/1990   MF
+Joe_Hart  Burnley_FC 19/04/1987   GK
+Tom_Heaton Burnley_FC 15/04/1986   GK
+Jeff_Hendrick  Burnley_FC 31/01/1992   MF
+Adam_Legzdins Burnley_FC 28/11/1986   GK
+Aaron_Lennon Burnley_FC 16/04/1987   MF
+Anders_Lindegaard Burnley_FC 13/04/1984  GK
+Kevin_Long Burnley_FC 18/08/1990   DF
+Matthew_Lowton Burnley_FC 09/06/1989  DF
+Dwight_McNeil Burnley_FC 22/11/1999   FW
+Ben_Mee Burnley_FC 21/09/1989   DF
+Nick_Pope Burnley_FC 19/04/1992   GK
+James_Tarkowski Burnley_FC 19/11/1992   DF
+Charlie_Taylor Burnley_FC 18/09/1993   DF
+Sam_Vokes Burnley_FC 21/10/1989   FW
+Matij_Vydra Burnley_FC 01/05/1992  FW
+Jon_Walters Burnley_FC 20/09/1983   FW
+Stephen_Ward Burnley_FC 20/08/1985   DF
+Ashley_Westwood Burnley_FC 01/04/1990   MF
+Chris_Wood Burnley_FC 07/12/1991   FW
+Harry_Arter Cardiff_City 28/12/1989   MF
+Souleymane_Bamba Cardiff_City 13/01/1985   DF
+Joe_Bennett Cardiff_City 28/03/1990   DF
+Ciaron_Brown Cardiff_City ???  DF
+Camarasa Cardiff_City 28/05/1994   MF
+Matthew_Connolly Cardiff_City 24/09/1987   DF
+Cameron_Coxe Cardiff_City 18/12/1998   DF
+Greg_Cunningham Cardiff_City 31/01/1991   DF
+Loic_Damour Cardiff_City 08/01/1991   MF
+Bruno_Ecuele Cardiff_City 16/07/1988  DF
+Neil_Etheridge Cardiff_City 07/02/1990   GK
+Frederic_Gounongbe Cardiff_City 01/05/1988   FW
+Aron_Gunnarsson Cardiff_City 22/04/1989   MF
+Kadeem_Harris Cardiff_City 08/06/1993   MF
+Mark_Harris Cardiff_City 29/12/1998  MF
+Rhys_Healey Cardiff_City 12/06/1994   FW
+Junior_Hoilett Cardiff_City 05/06/1990   MF
+Gary_Madine Cardiff_City 24/08/1990   FW
+Ibrahim_Meite Cardiff_City 29/07/1996   FW
+Nathaniel_Mendez-Laing Cardiff_City 15/04/1992   MF
+Sean_Morrison Cardiff_City 08/01/1991   DF
+Brian_Murphy Cardiff_City 07/05/1983   GK
+Josh_Murphy Cardiff_City 24/02/1995   FW
+Stuart_O'Keefe Cardiff_City 04/03/1991   MF
+Callum_Paterson Cardiff_City 13/10/1994   MF
+Lee_Peltier Cardiff_City 11/12/1986   DF
+Anthony_Pilkington Cardiff_City 06/06/1988   FW
+Joe_Ralls Cardiff_City 13/10/1993   MF
+Bobby_Reid Cardiff_City 02/02/1993   FW
+Jazz_Richards Cardiff_City 12/04/1991   DF
+Alex_Smithies Cardiff_City 05/03/1990   GK
+Lee_Tomlin Cardiff_City 12/01/1989   FW
+Danny_Ward Cardiff_City 11/12/1991   FW
+Kenneth_Zohore Cardiff_City 31/01/1994   FW
+Ethan_Ampadu Chelsea_FC 14/09/2000   DF
+Azpilicueta Chelsea_FC 28/08/1989   DF
+Ross_Barkley Chelsea_FC 05/12/1993  MF
+Joel_Ward Crystal_Palace 29/10/1989   DF
+Connor_Wickham Crystal_Palace 31/03/1993   FW
+Jonathan_Williams Crystal_Palace 09/10/1993   MF
+Sam Woods_Crystal_Palace 11/09/1998  DF
+Wilfried_Zaha Crystal_Palace 10/11/1992   FW
+Andre_Gomes Everton_FC 30/07/1993   MF
+Leighton_Baines Everton_FC 11/12/1984   DF
+Beni_Baningime Everton_FC 09/09/1998   MF
+Bernard Everton_FC 08/09/1992   MF
+Tyias_Browning Everton_FC 27/05/1994   DF
+Dominic_Calvert-Lewin Everton_FC 16/03/1997   FW
+Seamus_Coleman Everton_FC 11/08/1988   DF
+Tom_Davies Everton_FC 30/06/1998   MF
+Lucas_Digne  Everton_FC 20/07/1993   DF
+Kieran_Dowell   Everton_FC 10/10/1997   MF
+Brendan_Galloway   Everton_FC 17/03/1996   DF
+Idrissa_Gueye   Everton_FC 26/09/1989   MF
+Mason_Holgate   Everton_FC 22/10/1996   DF
+Phil_Jagielka   Everton_FC 17/08/1982   DF
+Joao_Virginia   Everton_FC 10/10/1999   GK
+Michael_Keane   Everton_FC 11/01/1993  DF
+Jonjoe_Kenny   Everton_FC 15/03/1997   DF
+Ademola_Lookman  Everton_FC 20/10/1998   FW
+James_McCarthy   Everton_FC 12/11/1990   MF
+Yerry_Mina   Everton_FC 23/09/1994   DF
+Oumar_Niasse   Everton_FC 18/04/1990   FW
+Jordan_Pickford   Everton_FC 07/03/1994  GK
+Richarlison   Everton_FC 10/05/1997   FW
+Morgan_Schneiderlin   Everton_FC 08/11/1989   MF
+Gylfi_Sigurosson  Everton_FC 08/09/1989   MF
+Maarten_Stekelenburg   Everton_FC 22/09/1982   GK
+Cenk_Tosun   Everton_FC 07/06/1991   FW
+Theo_Walcott   Everton_FC 16/03/1989   FW
+Kurt_Zouma   Everton_FC 27/10/1994   DF
+Floyd_Ayite   Fulham_FC 15/12/1988   FW
+Marcus_Bettinelli  Fulham_FC 24/05/1992   GK
+Joe_Bryan  Fulham_FC 17/09/1993   DF
+Tom_Cairney  Fulham_FC 20/01/1991   MF
+Calum_Chambers   Fulham_FC 20/01/1995   DF
+Cyrus_Christie  Fulham_FC 30/09/1992   DF
+Ibrahima_Cisse Fulham_FC 28/02/1994   MF
+Luca_de_la_Torre   Fulham_FC 23/05/1998   MF
+Fabricio Fulham_FC 31/12/1987   GK
+Timothy_Fosu-Mensah   Fulham_FC 02/01/1998   DF
+Stefan_Johansen   Fulham_FC 08/01/1991   MF
+Aboubakar_Kamara  Fulham_FC 07/03/1995   FW
+Neeskens_Kebano  Fulham_FC 10/03/1992  MF
+Maxime_Le_Marchand  Fulham_FC 11/10/1989   DF
+Alfie_Mawson  Fulham_FC 19/01/1994   DF
+Kevin_McDonald  Fulham_FC 04/11/1988   MF
+Aleksandar_Mitrovic  Fulham_FC 16/09/1994   FW
+Matthew_O'Riley  Fulham_FC 21/11/2000   MF
+Denis_Odoi  Fulham_FC 27/05/1988   DF
+Tim_Ream  Fulham_FC 05/10/1987   DF
+Andre_Schurrle  Fulham_FC 06/11/1990   FW
+Sergio_Rico  Fulham_FC 01/09/1993   GK
+Jean_Michael_Seri Fulham_FC 19/07/1991   MF
+Ryan_Sessegnon   Fulham_FC 18/05/2000   FW
+Steven_Sessegnon  Fulham_FC 18/05/2000   DF
+Luciano_Vietto  Fulham_FC 05/12/1993   FW
+Andre_Zambo  Fulham_FC 16/11/1995   MF
+Juninho_Bacuna  Huddersfield_Town 07/08/1997   MF
+Philip_Billing   Huddersfield_Town 11/06/1996   MF
+Laurent_Depoitre Huddersfield_Town 07/12/1988   FW
+Adama_Diakhaby   Huddersfield_Town 05/07/1996   FW
+Erik_Durm  Huddersfield_Town 12/05/1992   DF
+Jon_Gorenc_Stankovic   Huddersfield_Town 14/01/1996   DF
+Florent_Hadergjonaj  Huddersfield_Town 31/07/1994   DF
+Ben_Hamer  Huddersfield_Town 20/11/1987   GK
+Jonathan_Hogg  Huddersfield_Town 06/12/1988   MF
+Mathias_Jorgensen  Huddersfield_Town 23/04/1990   DF
+Elias_Kachunga  Huddersfield_Town 22/04/1992   FW
+Terence_Kongolo Huddersfield_Town 14/02/1994   DF
+Jonas_Lossl  Huddersfield_Town 01/02/1989   GK
+Chris_Lowe  Huddersfield_Town 16/04/1989   DF
+Isaac_Mbenza  Huddersfield_Town 08/03/1996   FW
+Aaron_Mooy  Huddersfield_Town 15/09/1989   MF
+Steve_Mounie  Huddersfield_Town 29/09/1994   FW
+Alex_Pritchard   Huddersfield_Town 03/05/1993   MF
+Collin_Quaner   Huddersfield_Town 18/06/1991   FW
+Abdelhamid_Sabiri   Huddersfield_Town 28/11/1996   MF
+Christopher_Schindler   Huddersfield_Town 29/04/1990   DF
+Ryan_Schofield  Huddersfield_Town 11/12/1999   GK
+Tom_Smith  Huddersfield_Town 14/04/1992   DF
+Ramadan_Sobhi   Huddersfield_Town 23/01/1997   MF
+Rajiv_van_La_Parra   Huddersfield_Town 04/06/1991   MF
+Daniel_Williams   Huddersfield_Town 08/03/1989   MF
+Adrien_Silva   Leicester_City 15/03/1989   MF
+Marc_Albrighton  Leicester_City 18/11/1989   MF
+Daniel_Amartey   Leicester_City 21/12/1994   DF
+Yohan_Benalouane  Leicester_City 28/03/1987   DF
+Ben_Chilwell   Leicester_City 21/12/1996   DF
+Hamza_Choudhury   Leicester_City 01/10/1997   MF
+Fousseni Diabate  Leicester_City  18/10/1995   FW
+Callum_Elder   Leicester_City 27/01/1995   DF
+Jonny_Evans   Leicester_City 03/01/1988  DF
+Christian_Fuchs   Leicester_City 07/04/1986   DF
+Rachid_Ghezzal   Leicester_City 09/05/1992   FW
+Demarai_Gray   Leicester_City 28/06/1996   MF
+Iborra   Leicester_City 16/01/1988   MF
+Kelechi_Iheanacho  Leicester_City 03/10/1996   FW
+Eldin_Jakupovic   Leicester_City 02/10/1984   GK
+Matty_James  Leicester_City 22/07/1991   MF
+Andy_King   Leicester_City 29/10/1988   MF
+James_Maddison   Leicester_City 23/11/1996   MF
+Harry_Maguire   Leicester_City 05/03/1993   DF
+Nampalys_Mendy   Leicester_City 23/06/1992   MF
+Wes_Morgan   Leicester_City 21/01/1984   DF
+Wilfred_Ndidi  Leicester_City 16/12/1996   MF
+Shinji_Okazaki   Leicester_City 16/04/1986   FW
+Ricardo_Pereira   Leicester_City 06/10/1993   MF
+Kasper_Schmeichel   Leicester_City 05/11/1986   GK
+Danny_Simpson   Leicester_City 04/01/1987  DF
+Caglar_Soyuncu   Leicester_City 23/05/1996   DF
+Jamie_Vardy   Leicester_City 11/01/1987   FW
+Danny_Ward   Leicester_City 22/06/1993   GK
+Alberto_Moreno  FC Liverpool_FC 05/07/1992   DF
+Trent_Alexander-Arnold   Liverpool_FC 07/10/1998   DF
+Alisson Liverpool_FC   02/10/1992   GK
+Nathaniel_Clyne   Liverpool_FC 05/04/1991   DF
+Fabinho   Liverpool_FC 23/10/1993   MF
+Joe_Gomez   Liverpool_FC 23/05/1997   DF
+Kamil_Grabara  Liverpool_FC 08/01/1999   GK
+Jordan_Henderson   Liverpool_FC 17/06/1990   MF
+Curtis_Jones   Liverpool_FC 30/01/2001   MF
+Naby_Keita   Liverpool_FC 10/02/1995   MF
+Adam_Lallana   Liverpool_FC 10/05/1988   MF
+Dejan_Lovren   Liverpool_FC 05/07/1989   DF
+Sadio_Mane   Liverpool_FC 10/04/1992   FW
+Lazar_Markovic   Liverpool_FC 02/03/1994   MF
+Joel_Matip   Liverpool_FC 08/08/1991   DF
+Simon_Mignolet  Liverpool_FC 06/03/1988   GK
+James_Milner  Liverpool_FC 04/01/1986   MF
+Divock_Origi   Liverpool_FC 18/04/1995   FW
+Alex_Oxlade-Chamberlain   Liverpool_FC 15/08/1993   MF
+Connor_Randall   Liverpool_FC 21/10/1995   DF
+Roberto_Firmino   Liverpool_FC 02/10/1991   FW
+Andrew_Robertson   Liverpool_FC 11/03/1994   DF
+Mohamed_Salah   Liverpool_FC 15/06/1992   FW
+Xherdan_Shaqiri   Liverpool_FC 10/10/1991   FW
+Dominic_Solanke   Liverpool_FC 14/09/1997   FW
+Daniel_Sturridge   Liverpool_FC 01/09/1989   FW
+Virgil_van_Dijk   Liverpool_FC 08/07/1991  DF
+Georginio_Wijnaldum   Liverpool_FC 11/11/1990   MF
+Adrian_Bernabe   Manchester_City 26/05/2001  MF
+Kun_Aguero   Manchester_City 02/06/1988   FW
+Bernardo_Silva   Manchester_City 10/08/1994   FW
+Brahim_Di­az   Manchester_City 03/08/1999   MF
+Claudio_Bravo   Manchester_City 13/04/1983   GK
+Danilo   Manchester_City 15/07/1991   DF
+David_Silva   Manchester_City 08/01/1986   MF
+Kevin_De_Bruyne  Manchester_City 28/06/1991   MF
+Fabian_Delph  Manchester_City 21/11/1989   DF
+Ederson   Manchester_City 17/08/1993   GK
+Fernandinho  Manchester_City 04/05/1985   MF
+Phil_Foden   Manchester_City 28/05/2000  MF
+Gabriel_Jesus  Manchester_City 03/04/1997   FW
+Claudio_Gomes  Manchester_City 23/07/2000  MF
+Ilkay_Gundogan  Manchester_City 24/10/1990   MF
+Yangel_Herrera  Manchester_City 07/01/1998   MF
+Vincent_Kompany  Manchester_City 10/04/1986   DF
+Aymeric_Laporte  Manchester_City 27/05/1994  DF
+Riyad_Mahrez  Manchester_City 21/02/1991   MF
+Eliaquim_Mangala  Manchester_City 13/02/1991   DF
+Benjamin_Mendy  Manchester_City 17/07/1994   DF
+Marlos_Moreno  Manchester_City 20/09/1996  FW
+Aro_Muric  Manchester_City 07/11/1998   GK
+Nicolas_Otamendi  Manchester_City 12/02/1988   DF
+Philippe_Sandler  Manchester_City 10/02/1997   DF
+Leroy_Sane   Manchester_City 11/01/1996   FW
+Raheem_Sterling   Manchester_City 08/12/1994   FW
+John_Stones  Manchester_City 28/05/1994   DF
+Kyle_Walker  Manchester_City 28/05/1990   DF
+Oleksandr_Zinchenko   Manchester_City 15/12/1996   MF
+Ander_Herrera   Manchester_United 14/08/1989   MF
+Andreas_Pereira   Manchester_United 01/01/1996   MF
+Eric_Bailly   Manchester_United 12/04/1994   DF
+Matteo_Darmian   Manchester_United 02/12/1989   DF
+De_Gea   Manchester_United 07/11/1990   GK
+Diogo_Dalot   Manchester_United 18/03/1999   DF
+Marouane_Fellaini   Manchester_United 22/11/1987   MF
+Fred  Manchester_United 05/03/1993   MF
+Lee_Grant  Manchester_United 27/01/1983   GK
+Phil_Jones  Manchester_United 21/02/1992   DF
+Victor_Lindelof  Manchester_United 17/07/1994   DF
+Jesse_Lingard  Manchester_United 15/12/1992   MF
+Romelu_Lukaku  Manchester_United 13/05/1993  FW
+Anthony_Martial  Manchester_United 05/12/1995   FW
+Mata   Manchester_United 28/04/1988   MF
+Nemanja_Matic   Manchester_United 01/08/1988   MF
+Scott_McTominay   Manchester_United 08/12/1996   MF
+Paul_Pogba   Manchester_United 15/03/1993   MF
+Marcus_Rashford   Manchester_United 31/10/1997   FW
+Marcos_Rojo   Manchester_United 20/03/1990   DF
+Sergio_Romero   Manchester_United 22/02/1987   GK
+Alexis_Sanchez   Manchester_United 19/12/1988   FW
+Luke_Shaw   Manchester_United 12/07/1995   DF
+Chris_Smalling   Manchester_Unitedd 22/11/1989   DF
+Antonio_Valencia   Manchester_United 04/08/1985   DF
+Ashley_Young   Manchester_United 09/07/1985   DF
+Stuart_Armstrong   Southampton_FC 30/03/1992   MF
+Charlie_Austin    Southampton_FC 05/07/1989   FW
+Jan_Bednarek    Southampton_FC 12/04/1996   DF
+Ryan_Bertrand    Southampton_FC 05/08/1989   DF
+Cedric_Soares    Southampton_FC 31/08/1991   DF
+Steven_Davis    Southampton_FC 01/01/1985   MF
+Mohamed_Elyounoussi   Southampton_FC 04/08/1994  FW
+Fraser _Forster   Southampton_FC 17/03/1988   GK
+Manolo _Gabbiadini  Southampton_FC 26/11/1991   FW
+Sam_Gallagher   Southampton_FC 15/09/1995   FW
+Angus_Gunn   Southampton_FC 22/01/1996   GK
+Wesley_Hoedt   Southampton_FC 06/03/1994   DF
+Pierre-Emile_Hojbjerg   Southampton_FC 05/08/1995   MF
+Danny_Ings    Southampton_FC 23/07/1992   FW
+Mario_Lemina    Southampton_FC 01/09/1993   MF
+Harry_Lewis   Southampton_FC 20/12/1997   GK
+Shane_Long    Southampton_FC 22/01/1987   FW
+Alex_McCarthy    Southampton_FC 03/12/1989   GK
+Oriol_Romeu    Southampton_FC 24/09/1991   MF
+Nathan_Redmond   Southampton_FC 06/03/1994   MF
+Jack_Stephens    Southampton_FC 27/01/1994   DF
+Matt_Targett   Southampton_FC 18/09/1995   DF
+Rolando_Aarons   Newcastle_United 16/11/1995   MF
+Christian_Atsu   Newcastle_United 10/01/1992   FW
+Ayoze_Perez  Newcastle_United 23/07/1993   MF
+Ciaran_Clark  Newcastle_United 26/09/1989   DF
+Karl_Darlow  Newcastle_United 08/10/1990   GK
+Momo_Diame  Newcastle_United 14/06/1987   MF
+Martin_Dubravka  Newcastle_United 15/01/1989   GK
+Paul_Dummett  Newcastle_United 26/09/1991   DF
+Rob_Elliot  Newcastle_United 30/04/1986   GK
+Federico_Fernandez  Newcastle_United 21/02/1989   DF
+Isaac_Hayden  Newcastle_United 22/03/1995   MF
+Joselu  Newcastle_United 27/03/1990   FW
+Kenedy  Newcastle_United 08/02/1996   MF
+Sung-yueng_Ki  Newcastle_United 24/01/1989   MF
+Jamaal_Lascelles  Newcastle_United 11/11/1993   DF
+Achraf_Lazaar   Newcastle_United 22/01/1992   DF
+Florian_Lejeune   Newcastle_United 20/05/1991   DF
+Sean_Longstaff  Newcastle_United 30/10/1997   MF
+Manquillo   Newcastle_United 05/05/1994   DF
+Jacob_Murphy   Newcastle_United 24/02/1995   FW
+Yoshinori_Muto   Newcastle_United 15/07/1992   FW
+Matt_Ritchie   Newcastle_United 10/09/1989   MF
+Salomon_Rondon   Newcastle_United 16/09/1989   FW
+Fabian_Schar Newcastle_United 20/12/1991   DF
+Jonjo_Shelvey  Newcastle_United 27/02/1992   MF
+Jamie_Sterry  Newcastle_United 21/11/1995   DF
+Freddie_Woodman Newcastle_United 04/03/1997   GK
+DeAndre_Yedlin  Newcastle_United 09/07/1993   DF
+Ryan_Giles   Wolverhampton_Wanderers 26/01/2000  MF
+Kortney_Hause   Wolverhampton_Wanderers 16/07/1995   DF
+Helder_Costa   Wolverhampton_Wanderers 12/01/1994   FW
+Dominic_Iorfa  Wolverhampton_Wanderers 24/06/1995   DF
+Ivan Cavaleiro   Wolverhampton_Wanderers 18/10/1993   FW
+Raul_Jimenez   Wolverhampton_Wanderers 05/05/1991   FW
+Joao_Moutinho  Wolverhampton_Wanderers 08/09/1986   MF
+Jonny  Wolverhampton_Wanderers 03/03/1994   DF
+Leo_Bonatini  Wolverhampton_Wanderers 28/03/1994   FW
+Joe_Mason  Wolverhampton_Wanderers 13/05/1991  FW
+Will_Norris  Wolverhampton_Wanderers 12/08/1993   GK
+Pote  Wolverhampton_Wanderers 28/06/1998   MF
+Connor_Ronan   Wolverhampton_Wanderers 06/03/1998   MF
+Ruben_Neves  Wolverhampton_Wanderers 13/03/1997   MF
+Ruben_Vinagre  Wolverhampton_Wanderers 09/04/1999   DF
+John_Ruddy   Wolverhampton_Wanderers 24/10/1986   GK
+Rui_Patri­cio   Wolverhampton_Wanderers 15/02/1988   GK
+Romain_Saiss   Wolverhampton_Wanderers 26/03/1990   MF
+Adama_Traore   Wolverhampton_Wanderers 25/01/1996  FW
+Elliot_Watt   Wolverhampton_Wanderers 11/03/2000 MF
