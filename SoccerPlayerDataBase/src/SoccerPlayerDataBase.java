@@ -17,13 +17,17 @@ public class SoccerPlayerDataBase
 		 static String name;
 		 static String team;
 		 static String birthYear;
-		private static String height;
-		private static String position;
+		 static String height;
+		 static String position;
+		 static String playerFound;
+		 static String player;
+		 static boolean playerMatches;
+		 static ArrayList<Player>database = new ArrayList<Player>();
 
 		
 		public static void soccerPlayers() throws IOException
 		{
-			ArrayList<Player>database = new ArrayList<Player>();
+	
 			playerList = new Scanner(new File("BPLPlayers.txt"));
 			while (playerList.hasNext())
 				{
@@ -34,18 +38,32 @@ public class SoccerPlayerDataBase
 					position = playerList.next();
 					database.add(new Player(name,team,birthYear,height,position));	
 				}
-			for (int i = 0; i <database.size(); i++)
-				{
-					System.out.println(database.get(i));
-				}
+//			for (int i = 0; i <database.size(); i++)
+//				{
+//					
+//					playerFound = database.get(i).getName();
+//				
+//				}
 //			System.out.println(playerList);
 //			String n = BPLPlayers.txt.next();
 		}
 		
 		public static void playerSearch() throws IOException
 		{
+			System.out.println("Enter in a player name with a '_' in all the spaces.");
 			userInputOne = new Scanner(System.in);
 			playerSearched = userInputOne.nextLine();
+
+				playerMatches = false;
+					for (int i = 0; i <database.size(); i++)
+						{
+							if (database.get(i).getName().equals(playerSearched))
+								{
+									System.out.println(database.get(i).getName() + " " + database.get(i).getTeam() + " "+ database.get(i).getBirthYear() +" "+ database.get(i).getPosition());
+								}
+						}
+					
+			
 		}
 		
 		public static void promptUser() throws IOException
@@ -54,11 +72,11 @@ public class SoccerPlayerDataBase
 			System.out.println("This is a database of all the players currently on a Premier League team roster.");
 			System.out.println("Enter '1' to begin your search");
 			userInputTwo = new Scanner(System.in);
-			beginSearch = userInputTwo.nextInt();			
+			beginSearch = userInputTwo.nextInt();		
 			if (beginSearch == 1)
 				{
-					System.out.println("works");
-//					playerSearch();
+					
+					playerSearch();
 				}
 		}
 	}
