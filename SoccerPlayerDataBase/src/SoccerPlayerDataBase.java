@@ -4,11 +4,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 public class SoccerPlayerDataBase
 	{
-// Create an array list of players
-// Import text file of the all BPL players and their individual fifa stats
-// User will be able to search up player by name 
-// Will output all the players fifa stats and their nationality and professional game
-		
 		 static Scanner playerList;
 		 static Scanner userInputOne;
 		 static Scanner userInputTwo;
@@ -19,8 +14,7 @@ public class SoccerPlayerDataBase
 		 static String height;
 		 static String position;
 		 static String playerFound;
-		 static String player;
-		 static String 
+		 static String userSearchAgain;
 		 static int beginSearch;
 		 static boolean playerMatches;
 		 static boolean continueSearch;
@@ -36,36 +30,12 @@ public class SoccerPlayerDataBase
 					name = playerList.next();
 					team = playerList.next();
 					birthYear = playerList.next();
-//					height = playerList.next();
 					position = playerList.next();
 					database.add(new Player(name,team,birthYear,position));	
 				}
-//			for (int i = 0; i <database.size(); i++)
-//				{
-//					
-//					playerFound = database.get(i).getName();
-//				
-//				}
-//			System.out.println(playerList);
-//			String n = BPLPlayers.txt.next();
 		}
 		
-		public static void playerSearch() throws IOException
-		{
-			System.out.println("Enter in a players name with a '_' in all the spaces.");
-			userInputOne = new Scanner(System.in);
-			playerSearched = userInputOne.nextLine();
 
-				playerMatches = false;
-					for (int i = 0; i <database.size(); i++)
-						{
-							if (database.get(i).getName().equals(playerSearched))
-								{
-									System.out.println(database.get(i).getName() + " " + database.get(i).getTeam() + " "+ database.get(i).getBirthYear() +" "+ database.get(i).getPosition());
-								}
-						}
-		}
-		
 		public static void promptUser() throws IOException
 		{
 			System.out.println("Welcome!");
@@ -78,12 +48,47 @@ public class SoccerPlayerDataBase
 					
 					playerSearch();
 				}
+			else 
+				{
+					System.out.println("Please use the correct input.");
+				}
 		}
 		
-		public static void contiueSearch() throws IOException
+		
+		public static void playerSearch() throws IOException
+			{
+				System.out.println("Enter in a players name with a '_' in all the spaces.");
+				userInputOne = new Scanner(System.in);
+				playerSearched = userInputOne.nextLine();
+
+						for (int i = 0; i <database.size(); i++)
+							{
+								if (database.get(i).getName().equals(playerSearched))
+									{
+										System.out.println(database.get(i).getName() + " " + database.get(i).getTeam() + " "+ database.get(i).getBirthYear() +" "+ database.get(i).getPosition());
+									}
+							}
+						continueSearch();
+						
+			}
+		
+		
+		public static void continueSearch() throws IOException
 		{
 			System.out.println("Would you like to search for another player");
 			userInputOne = new Scanner(System.in);
-			if ()
+			 userSearchAgain = userInputOne.nextLine();
+			 continueSearch = true; 
+			
+			 	if (userSearchAgain.equals("yes"))
+			 		{
+			 			playerSearch();
+			 		}
+				else if (userSearchAgain.equals("no"))
+					{
+						System.out.println("Come back soon!");
+						continueSearch = false;
+						System.exit(0);
+					}
 		}
 	}
