@@ -75,6 +75,7 @@ public class SoccerPlayerDataBase
 		
 		public static void continueSearch() throws IOException
 		{
+			System.out.println(" ");
 			System.out.println("Would you like to search for another player");
 			userInputOne = new Scanner(System.in);
 			 userSearchAgain = userInputOne.nextLine();
